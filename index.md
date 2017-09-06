@@ -413,7 +413,7 @@ For FeatureIDE 2.5 and newer: Right click the jar files in package explorer and 
 <li>Open the feature model of project B, switch to the tab Source, and paste the clipboard.</li>
 <li>Switch back to the tab Feature Diagram in editor of project B and the feature model edit view will show the results.</li>
 </ol>
-Checkout this <a href="videos/CompareFMs.avi">video</a> to see how to do it.
+Checkout this <a href="https://youtu.be/j_MfFVeb8J0">video</a> to see how to do it.
 
 <h3>How can I import/export the feature model from/to other tools?</h3>
 Select the file model.xml in Package Explorer and open the context menu &gt; FeatureIDE &gt; Import/Export ...
