@@ -500,9 +500,9 @@ contact the <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">Fe
 <p>Since 2007 FeatureIDE is being used by lecturers at numerous universities:</p>
 
 <ul>
-<li><a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/lehre/index.php">University of Magdeburg, Germany</a> (Christian K&auml;stner, Gunter Saake, Martin Kuhlemann, Norbert Siegmund, Thomas Th&uuml;m, Thomas Leich)</li>
+<li><a href="http://www.dbse.ovgu.de/dbse/en/Lectures.html">University of Magdeburg, Germany</a> (Christian K&auml;stner, Gunter Saake, Martin Kuhlemann, Norbert Siegmund, Thomas Th&uuml;m, Thomas Leich)</li>
 <li><a href="http://www.infosun.fim.uni-passau.de/se/teaching.php">University of Passau, Germany</a> (Sven Apel, Norbert Siegmund)</li>
-<li><a href="https://www.uni-marburg.de/fb12/arbeitsgruppen/swt/lehre/spl16">University of Marburg, Germany</a> (Christian K&auml;stner, Daniel Str&uuml;ber, Gabriele Taentzer)</li>
+<li><a href="https://www.uni-marburg.de/fb12/arbeitsgruppen/swt/lehre">University of Marburg, Germany</a> (Christian K&auml;stner, Daniel Str&uuml;ber, Gabriele Taentzer)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/teaching">TU Braunschweig, Germany</a> (Sandro Schulze, Thomas Th&uuml;m)</li>
 <li><a href="http://www.es.tu-darmstadt.de/lehre/aktuelle-veranstaltungen/">TU Darmstadt, Germany</a> (Malte Lochau)</li>
 <li><a href="http://www.jku.at/isse/content/e104861">TU Wien, Austria</a> (Rick Rabiser)</li>
