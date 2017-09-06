@@ -522,8 +522,7 @@ contact the <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">Fe
 <br/>
 <small>View <a href="https://maps.google.de/maps/ms?hl=de&amp;ie=UTF8&amp;msa=0&amp;msid=102992651395946830408.00048f64a422726e89385&amp;ll=3.385828,-53.202496&amp;spn=90,137.655601&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">FeatureIDE Support Requests</a> on a larger map</small>
 
-<h2><a name="relateddownloads"></a>Related Downloads</h2>
-
+<!--<h2><a name="relateddownloads"></a>Related Downloads</h2>
 <p>We generated 2000 feature models for our current research
 which are available for download. There are 200 models in ten different
 sizes: <a href="fms/10.zip">10</a>, <a href="fms/20.zip">20</a>, <a href="fms/50.zip">50</a>,
@@ -531,7 +530,7 @@ sizes: <a href="fms/10.zip">10</a>, <a href="fms/20.zip">20</a>, <a href="fms/50
 <a href="fms/1000.zip">1000</a>, <a href="fms/2000.zip">2000</a>, <a href="fms/5000.zip">5000</a> and <a href="fms/10000.zip">10000</a> features. All feature
 models contain cross-tree constaints growing with the number of
 features and are not void, i.e., they contain at least one product.</p>
-<p>Guidsl jar file: <a href="guidsl.jar">guidsl.jar</a></p>
+<p>Guidsl jar file: <a href="guidsl.jar">guidsl.jar</a></p>-->
 
 <!-- BEGIN: Powered by Supercounters.com -->
 <center>
@@ -543,5 +542,5 @@ features and are not void, i.e., they contain at least one product.</p>
 
 <p align="center">
 Sponsored by <br/>
-<a href="http://www.metop.de/"><img style="border: 0px solid; width: 80px; height: 80px;" alt="Metop Research Institute" src="metop_logo.png" /></a>
+<a href="http://www.metop.de/"><img style="border: 0px solid; width: 80px; height: 80px;" alt="Metop Research Institute" src="logo/metop_logo.png" /></a>
 </p>
