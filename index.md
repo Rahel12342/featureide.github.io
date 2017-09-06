@@ -111,7 +111,7 @@ Development</a>.
 
 <!-- Authors: Fabian Benduhn and Thomas Thum -->
 <li><a name="BT11"></a>Fabian Benduhn and Thomas Th&uuml;m.
-<a href="http://jaxenter.com/developing-software-variants-with-featureide-39545.html">FeatureIDE - A Novel Approach to Develop Software</a>.
+<a href="https://jaxenter.com/featureide-a-novel-approach-to-developing-software-103939.html">FeatureIDE - A Novel Approach to Develop Software</a>.
 Online Portal, November 2011.<br />&nbsp;</li>
 
 <!-- Authors: Thomas Thum and Fabian Benduhn -->
