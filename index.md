@@ -31,20 +31,10 @@ A major problem of product-line engineering is still the missing tool support. T
   * Collaboration diagram and outline to visualize and navigate in product-line architectures
   * Sophisticated filtering and folding opportunities
 * Domain implementation
-  * Feature-oriented programming with
-    * <a href="http://www.cs.utexas.edu/users/schwartz/ATS.html">AHEAD</a> with support for Java 1.4
-    * <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/fop/featurec/">FeatureC++</a> with support for C++
-    * <a href="http://www.fosd.de/fh">FeatureHouse</a> with support for C, C#, Java 1.5, JML, Haskell, XML, JavaCC, ...
-  * Aspect-oriented programming
-    * <a href="http://www.eclipse.org/aspectj/">AspectJ</a>
-    * <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/fop/featurec/">FeatureC++</a> with support for C++
-  * Delta-oriented modeling and programming with
-    * <a href="http://deltaecore.org/">DeltaEcore</a>
-    * <a href="http://deltaj.sourceforge.net/">DeltaJ</a>
-  * Annotation-based implemenation with
-    * <a href="http://antenna.sourceforge.net/">Antenna</a>
-    * C preprocessor CPP by <a href="https://sites.google.com/a/ic.ufal.br/colligens/">Colligens</a>
-    * <a href="http://sonatype.github.com/munge-maven-plugin/">Munge</a>
+  * Feature-oriented programming with <a href="http://www.cs.utexas.edu/users/schwartz/ATS.html">AHEAD</a> (Java 1.4), <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/fop/featurec/">FeatureC++</a> (C++), <a href="http://www.fosd.de/fh">FeatureHouse</a> (C, Java 1.5, JML, Haskell, XML, JavaCC)
+  * Aspect-oriented programming with <a href="http://www.eclipse.org/aspectj/">AspectJ</a> (Java) and <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/fop/featurec/">FeatureC++</a> (C++)
+  * Delta-oriented modeling and programming with <a href="http://deltaecore.org/">DeltaEcore</a> and <a href="http://deltaj.sourceforge.net/">DeltaJ</a> (Java)
+  * Annotation-based implemenation with preprocessor <a href="http://antenna.sourceforge.net/">Antenna</a>, C preprocessor CPP by <a href="https://sites.google.com/a/ic.ufal.br/colligens/">Colligens</a>, <a href="http://sonatype.github.com/munge-maven-plugin/">Munge</a>
   * Black-box frameworks with plug-ins
   * Runtime variability with runtime parameters and property files
   * Statistics and code metrics for product-line implementations
@@ -77,6 +67,7 @@ A major problem of product-line engineering is still the missing tool support. T
 
 * <a href="https://but4reuse.github.io/">BUT4Reuse</a>: Feature identification in clone-and-own, feature-model import from and export to FeatureIDE
 * <a href="http://fosd.net/cide">CIDE</a>: A software product line tool for software product line development following the paradigm of separation of concerns
+* <a href="https://sites.google.com/a/ic.ufal.br/colligens/">Colligens</a>: A FeatureIDE extension providing tool support for C code annotated with the C preprocessor
 * <a href="http://familiar-project.github.io/">FAMILIAR</a>: An executable language that supports manipulating and reasoning about feature models
 * <a href="http://fosd.de/fuji">Fuji</a>: An extensible compiler that supports feature-oriented programming in Java
 * <a href="http://combinators.org/launchpad/update-site/">Launchpad</a>: Feature-oriented synthesis of programs
