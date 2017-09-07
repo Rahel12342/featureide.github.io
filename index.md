@@ -41,14 +41,15 @@ A major problem of product-line engineering is still the missing tool support. T
   * Refactoring, source-code documentation with <a href="http://www.java-doc.de/">JavaDoc</a>, and formal specification with <a href="http://www.eecs.ucf.edu/~leavens/JML//index.shtml">JML</a>
 * Requirements analysis
   * Editor for configuration processes without backtracking
-  * Validity checking and decision propagation
+  * Validity checking and decision propagation based on <a href="http://www.sat4j.org/">Sat4j</a>
   * Checking for unused and always selected features
   * Comparison of user-defined configuration
   * Recommendation of features
 * Software generation and quality assurance
   * Automated product generation after changes for one selected configuration
   * Propagation of compiler markers to original source code
-  * Family-based analysis
+  * Family-based analyses
+    * Detection of dead code blocks and superficial ifdefs in annotation-based product lines based on <a href="http://www.sat4j.org/">Sat4j</a>
     * Family-based type checks for FeatureHouse projects with <a href="http://fosd.de/fuji">Fuji</a>
     * Family-based parsing and type checks for CPP projects with <a href="http://ckaestne.github.io/TypeChef/">TypeChef</a>
   * Semi-automated generation of configurations, compilation and testing (i.e., product-based analysis)
