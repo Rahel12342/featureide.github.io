@@ -8,9 +8,6 @@ Quick links to <a href="http://featureide.cs.ovgu.de/update/v3/">Update Site</a>
 
 Jump below to <!--<a href="#screenshots">Screenshots</a>,--> <a href="#publications">Publications</a>, <a href="#documentation">Documentation</a>, <a href="#download">Download</a>, <a href="#faq">FAQ</a>, <a href="#contact">Contact</a>, <a href="#statistics">Statistics</a>, <a href="#relateddownloads">Related Downloads</a>
 
-<div style="float:right;margin-left:10px;margin-below:10px;width:450px;"><a class="twitter-timeline"  href="https://twitter.com/FeatureIDE" data-widget-id="663660887211929600">Tweets von @FeatureIDE </a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
-
 <p>Software product lines (SPL) have a long tradition and will gain momentum in the future. Today's research tries to
 move software development to a new quality of industrial production. Several solutions concerning different phases
 of the software development process have been proposed in order to cope with different problems of product-line development.
@@ -18,6 +15,9 @@ A major problem of product-line engineering is still the missing tool support. T
 
 <p><em>FeatureIDE</em> is an Eclipse-based IDE that supports all phases of feature-oriented software development for the development of SPLs: domain analysis, domain design, domain implementation, requirements analysis, software generation, and quality assurance. Different SPL implementation techniques are integrated such as feature-oriented programming (FOP), aspect-oriented programming (AOP), preprocessors, and plug-ins.
 </p>
+
+<div style="float:right;margin-left:10px;margin-below:10px;width:450px;"><a class="twitter-timeline"  href="https://twitter.com/FeatureIDE" data-widget-id="663660887211929600">Tweets von @FeatureIDE </a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
 
 <p>FeatureIDE is&nbsp;under constant development. The following features have been implemented since 2004:</p>
 
