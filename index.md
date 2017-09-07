@@ -11,71 +11,79 @@ Jump below to <!--<a href="#screenshots">Screenshots</a>,--> <a href="#publicati
 <div style="float:right;margin-left:10px;margin-below:10px;width:450px;"><a class="twitter-timeline"  href="https://twitter.com/FeatureIDE" data-widget-id="663660887211929600">Tweets von @FeatureIDE </a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
 
-<p>Software product lines (SPL) have a long tradition and will
-gain momentum in the future. Today's research tries to
-move software development to a new quality of industrial
-production. Several solutions concerning different phases
-of the software development process have been proposed in
-order to cope with different problems of program family development.
-A major problem of program family engineering
-is still the missing tool support. The vision is an IDE that
-brings all phases of the development process together, consistently
-and in a user-friendly manner.
+<p>Software product lines (SPL) have a long tradition and will gain momentum in the future. Today's research tries to
+move software development to a new quality of industrial production. Several solutions concerning different phases
+of the software development process have been proposed in order to cope with different problems of product-line development.
+A major problem of product-line engineering is still the missing tool support. The vision is an integrated development environment (IDE) that brings all phases of the development process together, consistently and in a user-friendly manner.</p>
+
+<p><em>FeatureIDE</em> is an Eclipse-based IDE that supports all phases of feature-oriented software development for the development of SPLs: domain analysis, domain design, domain implementation, requirements analysis, software generation, and quality assurance. Different SPL implementation techniques are integrated such as feature-oriented programming (FOP), aspect-oriented programming (AOP), preprocessors, and plug-ins.
 </p>
 
-<p><em>FeatureIDE</em> is an Eclipse-based IDE that supports all phases
-of feature-oriented software development for the development of SPLs:
-domain analysis, domain implementation, requirements analysis, and software generation.
-Different SPL implementation techniques are integrated such as
-feature-oriented programming (FOP), aspect-oriented programming (AOP),
-delta-oriented programming (DOP), and preprocessors.
-</p>
+<p>FeatureIDE is&nbsp;under constant development. The following features have been implemented since 2004:</p>
 
-<p>FeatureIDE is&nbsp;under constant development. The
-following features are implemented:</p>
+* Domain analysis
+  * Graphical and textual editor for feature models and cross-tree constraints
+  * Automated analysis and explanation of feature-model anomalies, such as dead and false-optional features, based on <a href="http://www.sat4j.org/">Sat4j</a>
+  * Categorization of feature-model edits into refactoring, generalization, specialization, and arbitrary edits
+  * Folding and layouting that scale to large feature models with thousands of features
+  * Import and export of feature models to tools and languages, such as <a href="http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html">Dimacs</a>, <a href="http://sourceforge.net/projects/fmp/">fmp: Feature Modeling Plug-in</a>, <a href="http://www.cs.utexas.edu/~schwartz/ATS/fopdocs/guidsl.html">GUIDSL</a>, <a href="http://www.splot-research.org/">S.P.L.O.T.</a>, <a href="http://fosd.de/SPLConqueror">SPL Conqueror</a>, <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/MultiPLe/modeling.php">Velvet</a>
+* Domain design
+  * Collaboration diagram and outline to visualize and navigate in product-line architectures
+  * Sophisticated filtering and folding opportunities
+* Domain implementation
+  * Feature-oriented programming with
+    * <a href="http://www.cs.utexas.edu/users/schwartz/ATS.html">AHEAD</a> with support for Java 1.4
+    * <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/fop/featurec/">FeatureC++</a> with support for C++
+    * <a href="http://www.fosd.de/fh">FeatureHouse</a> with support for C, C#, Java 1.5, JML, Haskell, XML, JavaCC, ...
+  * Aspect-oriented programming
+    * <a href="http://www.eclipse.org/aspectj/">AspectJ</a>
+    * <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/fop/featurec/">FeatureC++</a> with support for C++
+  * Delta-oriented modeling and programming with
+    * <a href="http://deltaecore.org/">DeltaEcore</a>
+    * <a href="http://deltaj.sourceforge.net/">DeltaJ</a>
+  * Annotation-based implemenation with
+    * <a href="http://antenna.sourceforge.net/">Antenna</a>
+    * C preprocessor CPP by <a href="https://sites.google.com/a/ic.ufal.br/colligens/">Colligens</a>
+    * <a href="http://sonatype.github.com/munge-maven-plugin/">Munge</a>
+  * Black-box frameworks with plug-ins
+  * Runtime variability with runtime parameters and property files
+  * Statistics and code metrics for product-line implementations
+  * Refactoring, source-code documentation with <a href="http://www.java-doc.de/">JavaDoc</a>, and formal specification with <a href="http://www.eecs.ucf.edu/~leavens/JML//index.shtml">JML</a>
+* Requirements analysis
+  * Editor for configuration processes without backtracking
+  * Validity checking and decision propagation
+  * Checking for unused and always selected features
+  * Comparison of user-defined configuration
+  * Recommendation of features
+* Software generation and quality assurance
+  * Automated product generation after changes for one selected configuration
+  * Propagation of compiler markers to original source code
+  * Family-based analysis
+    * Family-based type checks for FeatureHouse projects with <a href="http://fosd.de/fuji">Fuji</a>
+    * Family-based parsing and type checks for CPP projects with <a href="http://ckaestne.github.io/TypeChef/">TypeChef</a>
+  * Semi-automated generation of configurations, compilation and testing (i.e., product-based analysis)
+    * Generation of all valid configurations
+    * Generation of all current configurations (defined in requirements analysis)
+    * T-wise sampling with <a href="https://www.isf.cs.tu-bs.de/cms/team/thuem/papers/2016-GPCE-AlHajjaji.pdf">IncLing</a>, <a href="http://heim.ifi.uio.no/martifag/splcatool/">SPLCATool</a>, <a href="http://cse.unl.edu/~citportal/citportal/loadTool?page=casa&id=1">CASA</a>
+    * Generation of random configurations
+    * Prioritization of configurations (e.g., by similarity)
+    * Unit testing with <a href="http://junit.org/junit4/">JUnit</a>
+* Cross-cutting features
+  * Feature traceability with colors over the whole development cycle
+  * Cheat sheet, wiki, slides, and screencasts available for documentation
+  * Many examples for feature models and product lines
 
-* Full Eclipse Integration
-* Feature Model Editor, graphical and text based.
-  * Highlighting of dead and false-optional features and their corresponding constraints based on <a href="http://www.sat4j.org/">Sat4j</a>.
-* Constraint Editor with content assist, syntax, and semantic checking, e.g., dead feature detection.
-* Abstraction from the SPL source code for several outline and navigation tools, among others and overview how mixins are composed and which methods are present in previous features.
-* Configuration Editor to create and edit configurations and with support for deriving valid configuration.
-* Support for edits on feature models, i.e., categorizing edits into refactorings, generalizations, specializations or none of these.
-* A view displaying statistics about the software product line.
-* Feature-oriented programming:
-  * Integration of <a href="http://www.cs.utexas.edu/users/schwartz/ATS.html">AHEAD</a>
-  * Integration of <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/forschung/fop/featurec/">FeatureC++</a>
-  * Integration of <a href="http://www.fosd.de/fh">FeatureHouse</a> with support for C, C#, Java 1.5, JML, Haskell, XML, JavaCC, ...
-    * Family-based type checks with <a href="http://fosd.de/fuji">Fuji</a>
-* Aspect-oriented programming:
-  * Integration of <a href="http://www.eclipse.org/aspectj/">AspectJ</a>
-* Delta-oriented programming:
-  * Integration of <a href="http://deltaj.sourceforge.net/">DeltaJ</a>
-  * Integration of <a href="http://deltaecore.org/">DeltaEcore</a>
-* Annotation-based:
-  * Integration of the C preprocessor with <a href="https://sites.google.com/a/ic.ufal.br/colligens/">Colligens</a>
-    * Family-based type checks with <a href="http://ckaestne.github.io/TypeChef/">TypeChef</a>
-  * Integration of the preprocessor <a href="http://sonatype.github.com/munge-maven-plugin/">Munge</a>
-  * Integration of the preprocessor <a href="http://antenna.sourceforge.net/">Antenna</a>
-* Generation of all program variants
-  * T-Wise variant generation with <a href="http://heim.ifi.uio.no/martifag/splcatool/">SPLCATool</a> (including <a href="http://cse.unl.edu/~citportal/citportal/loadTool?page=casa&id=1">CASA</a>)
-* Support for feature model grammars of following tools:
-  * <a href="http://www.cs.utexas.edu/~schwartz/ATS/fopdocs/guidsl.html">The guidsl Tool</a>,
-    <a href="http://www.splot-research.org/">S.P.L.O.T.</a>,
-    <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/MultiPLe/modeling.php">Velvet</a>,
-    <a href="http://sourceforge.net/projects/fmp/">fmp: Feature Modeling Plug-in</a>,
-    <a href="http://fosd.de/SPLConqueror">SPL Conqueror</a>
-  * Export of cnf in <a href="http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html">dimacs</a> format.
-* Tools build on top of FeatureIDE or parts thereof:
-  * <a href="https://but4reuse.github.io/">BUT4Reuse</a>: Feature identification in clone-and-own, feature-model import from and export to FeatureIDE
-  * <a href="http://fosd.net/cide">CIDE</a>: A software product line tool for software product line development following the paradigm of separation of concerns
-  * <a href="http://familiar-project.github.io/">FAMILIAR</a>: An executable language that supports manipulating and reasoning about feature models
-  * <a href="http://fosd.de/fuji">Fuji</a>: An extensible compiler that supports feature-oriented programming in Java
-  * <a href="http://combinators.org/launchpad/update-site/">Launchpad</a>: Feature-oriented synthesis of programs
-  * <a href="https://github.com/ckaestne/LEADT">LEADT</a>: Supports developers in locating features in Java code in order to turn them into a software product line
-  * <a href="https://www.tu-braunschweig.de/isf/research/vampire/index.html">VAmPiRE</a>: Variant-Preserving Refactoring for Feature-Oriented Software Product Lines
-  * <a href="https://github.com/tthuem/VariantSync">VariantSync</a>: Synchronization support for clone-and-own based on domain knownledge specified with FeatureIDE
-  * ...
+<p>Numerous other tools have been build on top of the FeatureIDE architecture:</p>
+
+* <a href="https://but4reuse.github.io/">BUT4Reuse</a>: Feature identification in clone-and-own, feature-model import from and export to FeatureIDE
+* <a href="http://fosd.net/cide">CIDE</a>: A software product line tool for software product line development following the paradigm of separation of concerns
+* <a href="http://familiar-project.github.io/">FAMILIAR</a>: An executable language that supports manipulating and reasoning about feature models
+* <a href="http://fosd.de/fuji">Fuji</a>: An extensible compiler that supports feature-oriented programming in Java
+* <a href="http://combinators.org/launchpad/update-site/">Launchpad</a>: Feature-oriented synthesis of programs
+* <a href="https://github.com/ckaestne/LEADT">LEADT</a>: Supports developers in locating features in Java code in order to turn them into a software product line
+* <a href="https://www.tu-braunschweig.de/isf/research/vampire/index.html">VAmPiRE</a>: Variant-Preserving Refactoring for Feature-Oriented Software Product Lines
+* <a href="https://github.com/tthuem/VariantSync">VariantSync</a>: Synchronization support for clone-and-own based on domain knownledge specified with FeatureIDE
+* Is your tool missing? Please <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">let us know</a>.
 
 <h2><a name="publications"></a>Publications</h2>
 
