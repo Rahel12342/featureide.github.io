@@ -433,7 +433,7 @@ contact the <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">Fe
 <p><em>FeatureIDE</em> project members and contributors:</p>
 
 * <a href="https://www.tu-braunschweig.de/isf/team/thuem">Thomas Th&uuml;m</a> (TU Braunschweig, Germany; University of Magdeburg, Germany; University of Texas at Austin, USA)
-* <a href="https://wwwiti.cs.uni-magdeburg.de/~meinicke">Jens Meinicke</a> (University of Magdeburg, Metop Research Institute, Germany)
+* <a href="https://wwwiti.cs.uni-magdeburg.de/~meinicke">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg; Metop Research Institute, Germany)
 * <a href="https://www.cs.cmu.edu/~ckaestne/">Christian K&auml;stner</a> (Carnegie Mellon University, USA)
 * <a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Magdeburg, Germany)
 * <a href="https://wwwiti.cs.uni-magdeburg.de/~rschroet/">Reimar Schr&ouml;ter</a> (University of Magdeburg, Germany)
