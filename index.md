@@ -2,9 +2,9 @@
 
 ### An extensible framework for feature-oriented software development
 
-<p>You like FeatureIDE or you are interested in updates? Star or watch us on <a href="https://github.com/FeatureIDE/FeatureIDE">Github</a>. Follow us on <a href="https://twitter.com/FeatureIDE">Twitter</a>. Subscribe our <a href="https://www.youtube.com/channel/UC0xYesZDzhFUbq6GUKtr3uA">Youtube</a> channel. Follow new publications at <a href="https://scholar.google.de/citations?user=I7Kw3l8AAAAJ">Google Scholar</a>. Mark us as favorite in the <a href="http://marketplace.eclipse.org/content/featureide">Eclipse MarketPlace</a>.</p>
+<p>You like FeatureIDE or you are interested in updates? Star or watch us on <a href="https://github.com/FeatureIDE/FeatureIDE">GitHub</a>. Follow us on <a href="https://twitter.com/FeatureIDE">Twitter</a>. Subscribe to our <a href="https://www.youtube.com/channel/UC0xYesZDzhFUbq6GUKtr3uA">YouTube</a> channel. Follow new publications at <a href="https://scholar.google.de/citations?user=I7Kw3l8AAAAJ">Google Scholar</a>. Mark us as favorite in the <a href="http://marketplace.eclipse.org/content/featureide">Eclipse Marketplace</a>.</p>
 
-Quick links to <a href="http://featureide.cs.ovgu.de/update/v3/">Update Site</a>, <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/">Nightly Update Site</a>, <a href="https://github.com/tthuem/FeatureIDE">Github</a>, <a href="http://featureide.cs.ovgu.de/update/v3/changelog.txt">Change log</a>
+Quick links to <a href="http://featureide.cs.ovgu.de/update/v3/">Update Site</a>, <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/">Nightly Update Site</a>, <a href="https://github.com/tthuem/FeatureIDE">GitHub</a>, <a href="http://featureide.cs.ovgu.de/update/v3/changelog.txt">Change log</a>
 
 Jump below to <!--<a href="#screenshots">Screenshots</a>,--> <a href="#publications">Publications</a>, <a href="#documentation">Documentation</a>, <a href="#download">Download</a>, <a href="#faq">FAQ</a>, <a href="#contact">Contact</a>, <a href="#statistics">Statistics</a>, <a href="#relateddownloads">Related Downloads</a>
 
@@ -16,7 +16,7 @@ A major problem of product-line engineering is still the missing tool support. T
 <p><em>FeatureIDE</em> is an Eclipse-based IDE that supports all phases of feature-oriented software development for the development of SPLs: domain analysis, domain design, domain implementation, requirements analysis, software generation, and quality assurance. Different SPL implementation techniques are integrated such as feature-oriented programming (FOP), aspect-oriented programming (AOP), preprocessors, and plug-ins.
 </p>
 
-<div style="float:right;margin-left:10px;margin-below:10px;width:450px;"><a class="twitter-timeline"  href="https://twitter.com/FeatureIDE" data-widget-id="663660887211929600">Tweets von @FeatureIDE </a>
+<div style="float:right;margin-left:10px;margin-below:10px;width:450px;"><a class="twitter-timeline"  href="https://twitter.com/FeatureIDE" data-widget-id="663660887211929600">Tweets by @FeatureIDE </a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
 
 <p>FeatureIDE is&nbsp;under constant development. The following features have been implemented since 2004:</p>
@@ -64,7 +64,7 @@ A major problem of product-line engineering is still the missing tool support. T
   * Cheat sheet, wiki, slides, and screencasts available for documentation
   * Many examples for feature models and product lines
 
-<p>Numerous other tools have been build on top of the FeatureIDE architecture:</p>
+<p>Numerous other tools have been built on top of the FeatureIDE architecture:</p>
 
 * <a href="https://but4reuse.github.io/">BUT4Reuse</a>: Feature identification in clone-and-own, feature-model import from and export to FeatureIDE
 * <a href="http://fosd.net/cide">CIDE</a>: A software product line tool for software product line development following the paradigm of separation of concerns
@@ -149,14 +149,14 @@ Workshop</cite>, pages 55&ndash;59, San Diego, USA, October
 <p>For a current step-by-step <strong>tutorial</strong> see the FeatureIDE cheat
 sheet in Eclipse (help menu).</p>
 
-<p><strong>Examples</strong> can be found using "New &gt; Examples &gt;
-FeatureIDE".</p>
+<p><strong>Examples</strong> can be found using <i>New &gt; Examples &gt;
+FeatureIDE</i>.</p>
 
 <p>We prepared slides as documentation for FeatureIDE:
 
 <ol>
 <li><a href="slides/featureide-0-background.pdf">FeatureIDE: Background</a> - Short overview of Feature-Oriented Software Development</li>
-<li><a href="slides/featureide-1-overview.pdf">FeatureIDE: Overview</a>: Description of FeatureIDE's Functionality</li>
+<li><a href="slides/featureide-1-overview.pdf">FeatureIDE: Overview</a> - Description of FeatureIDE's Functionality</li>
 <li><a href="slides/featureide-2-getstarted.pdf">FeatureIDE: Get Started</a> - How to install FeatureIDE and retrieve example projects</li>
 <li><a href="slides/featureide-3-development.pdf">FeatureIDE: Development</a> - How to extend FeatureIDE, i.e., how is the SVN organized and which plug-in implements which functionalities</li>
 </ol>
@@ -171,7 +171,7 @@ including videos explaining the usage.</p>
 
 <h3>Marketplace</h3>
 
-<p>You can download FeatureIDE in the Eclipse Marketplace by dragging the install button (on the right side) into your eclipse or using <i>Help &gt; Eclipse Marketplace</i> and then search for <i>FeatureIDE</i>.</p>
+<p>You can download FeatureIDE in the Eclipse Marketplace by dragging the install button (on the right side) into your Eclipse or using <i>Help &gt; Eclipse Marketplace</i> and then searching for <i>FeatureIDE</i>.</p>
 
 <h3>Prepackaged Versions</h3>
 
@@ -200,14 +200,14 @@ including videos explaining the usage.</p>
 
 <h3>Download with Update Site</h3>
 
-1. Open Eclipse and go to "Help &gt; Install New Software..." (Eclipse 3.5 and older: "Help &gt; Software Updates... &gt; Available Software &gt; Add Site...")
+1. Open Eclipse and go to <i>Help &gt; Install New Software...</i> (Eclipse 3.5 and older: <i>Help &gt; Software Updates... &gt; Available Software &gt; Add Site...</i>)
 1. Add one of update sites below:
   * FeatureIDE v3.x: <a href="http://featureide.cs.ovgu.de/update/v3/">http://featureide.cs.ovgu.de/update/v3/</a>
   * FeatureIDE v2.6 and v2.7: <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/deploy/">http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/deploy/</a>
   * FeatureIDE v2.5 and earlier versions: <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/deploy/2.5/">http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/deploy/2.5/</a>
-  * Nightly builds: <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/">http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/</a> (<em>Hint:</em> disable "Group items by category" at the update wizard.)
+  * Nightly builds: <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/">http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/nightly/p2-updateSite/</a> (<em>Hint:</em> disable <i>Group items by category</i> at the update wizard.)
 1. Select the features FeatureIDE, Feature Modeling, and the required FeatureIDE extensions. You may need to add further update sites to install FeatureIDE extensions. See table below.
-1. Continue with "Install..."
+1. Continue with <i>Install...</i>
 
 <h3>Supported Java and Eclipse Versions</h3>
 
@@ -215,7 +215,7 @@ including videos explaining the usage.</p>
 
 <p>If you do not have
 <a href="http://www.eclipse.org/downloads/">Eclipse</a> installed, you might
-choose the "Eclipse IDE for Java Developers" in the current version. If you intend to extend Eclipse or FeatureIDE, we recommend "Eclipse for Committers" instead.<p>
+choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you intend to extend Eclipse or FeatureIDE, we recommend <i>Eclipse for Committers</i> instead.<p>
 
 <p>Compatibility of FeatureIDE plug-ins and Eclipse versions. The table contains links to the update sites of additional required plug-ins. As most extensions require <a href="http://www.eclipse.org/jdt/">JDT</a>, it is omitted below.</p>
 
@@ -313,32 +313,32 @@ choose the "Eclipse IDE for Java Developers" in the current version. If you inte
 </tr>
 </table>
 
-<p>* Depending on pre-installed plugins there can be problems with installing Xtext. Check which version of google inject you have installed in your plugins folder:
-com.google.inject_3.0.0.no_aop.jar works,
-com.google.inject_3.0.0.v201203063045.jar does not work</p>
+<p>* Depending on pre-installed plugins, there can be problems with installing Xtext. Check which version of Google Inject you have installed in your plugins folder:
+<code>com.google.inject_3.0.0.no_aop.jar</code> works,
+<code>com.google.inject_3.0.0.v201203063045.jar</code> does not work.</p>
 
-<p>T-wise generation with CASA is currently only available on windows systems, if you however need to use it contact us so we can find a solution.</p>
+<p>T-wise generation with CASA is currently only available on Windows systems. If you however need to use it, contact us so we can find a solution.</p>
 
-<p>All functionalities are tested under Windows, Mac, and Linux. However, FeatureIDE is mainly developed under Windows. If you have problems with FeatureIDE on your operating system, please do not hesitate to <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">contact us</a> or to use our <a href="https://github.com/tthuem/FeatureIDE/issues/new">bug tracker</a>.</p>  
+<p>All functionalities are tested under Windows, Mac, and Linux. However, FeatureIDE is mainly developed under Windows. If you have problems with FeatureIDE on your operating system, please do not hesitate to <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">contact us</a> or to use our <a href="https://github.com/tthuem/FeatureIDE/issues/new">bug tracker</a>.</p>
 
 <h4>Source Code</h4>
-<p>FeatureIDE is released under L-GPL license v3. The source code is available on <a href="https://github.com/tthuem/FeatureIDE">Github</a>. See also our <a href="https://github.com/tthuem/FeatureIDE/issues">Bug Tracker</a> and 
-<a href="https://github.com/tthuem/FeatureIDE/wiki">Wiki</a>.</p>
+<p>FeatureIDE is released under L-GPL license v3. The source code is available on <a href="https://github.com/tthuem/FeatureIDE">GitHub</a>. See also our <a href="https://github.com/tthuem/FeatureIDE/issues">bug tracker</a> and 
+<a href="https://github.com/tthuem/FeatureIDE/wiki">wiki</a>.</p>
 <p>When importing the FeatureIDE plug-ins, a) deselect the checkbox for nested projectes, and b) type 'plugins' into the filter. Then you can import the projects you need.</p>
 
-<p>Before switching to Git and Github, we used to work with <a href="https://faracvs.cs.uni-magdeburg.de/svn/tthuem-FeatureIDE">SVN</a> (deprecated) and <a href="https://faracvs.cs.uni-magdeburg.de/projects/tthuem-FeatureIDE/">Trac</a> (deprecated).</p>
+<p>Before switching to Git and GitHub, we used to work with <a href="https://faracvs.cs.uni-magdeburg.de/svn/tthuem-FeatureIDE">SVN</a> (deprecated) and <a href="https://faracvs.cs.uni-magdeburg.de/projects/tthuem-FeatureIDE/">Trac</a> (deprecated).</p>
 
 <h3>Miscellaneous</h3>
 
 <p>How to install FeatureIDE and retrieve example projects? <a href="slides/featureide-2-getstarted.pdf">FeatureIDE: Get Started</a></p>
 
-<p>Open the FeatureIDE perspective in the right upper corner of the Eclipse window. You also may want to open the FeatureIDE cheat sheet using "Help &gt; Cheat Sheets... &gt; FeatureIDE".</p>
+<p>Open the FeatureIDE perspective in the right upper corner of the Eclipse window. You also may want to open the FeatureIDE cheat sheet using <i>Help &gt; Cheat Sheets... &gt; FeatureIDE</i>.</p>
 
 <!--<p><strong><em>Our SVN can currently not be accessed using login anonymous (for some reason). We try to fix this asap., but you might want to download the current source code of most plug-ins: <a href="downloads/FeatureIDE-plug-ins-rev2682.zip">FeatureIDE-plug-ins-rev2682.zip</a></em></strong></p>-->
 
 <!--	<h2><a name="usage"></a>Usage</h2>
 
-<p><strong><em>For a current step-by-step tutorial see the FeatureIDE cheat
+<p><strong><em>For a current step-by-step tutorial, see the FeatureIDE cheat
 sheet in Eclipse (help menu). Examples can be found using "New &gt; Examples &gt;
 FeatureIDE".</em></strong></p>
 
@@ -367,7 +367,7 @@ will be checked towards syntactical (missing brackets) and semantical validity
 (causes dead features).</p>
 
 <p>Support for editing is provided by the Feature Model Edit View
-which can be opened at "Window &gt; Show View &gt; Other...".
+which can be opened at <i>Window &gt; Show View &gt; Other...</i>.
 This view calculates whether the change you made to the feature model will
 cause addition or deletion of products. Additionally, an example
 product (added/deleted) is given if it exists.</p>
@@ -375,13 +375,13 @@ product (added/deleted) is given if it exists.</p>
 <h4>4. Create Configuration files</h4>
 
 <p>Use the wizard to create new Configuration files in the folder
-"configs". In the Advanced Configuration Editor, features can be
+<code>configs</code>. In the Advanced Configuration Editor, features can be
 selected/deselected by a double click. A
 configuration that is not allowed along to the feature model gets an error
 marker.</p>
 
 <p>If there is more than one Configuration file, only the one you have
-selected using right click and "Set as current configuration" is build.</p>
+selected using right click and <i>Set as current configuration</i> is built.</p>
 
 <h4>5. Create source files</h4>
 
@@ -394,34 +394,34 @@ constructs are used.</p>
 
 <h4>6. Create Run Configurations</h4>
 
-Because FeatureIDE is on top of standard eclipse projects you can run the generated program variant as usual, e.g., right click on a generated Java file and use "Run As...".
+Because FeatureIDE is on top of standard Eclipse projects, you can run the generated program variant as usual, e.g., right click on a generated Java file and use <i>Run As...</i>.
 -->			
 <h2><a name="faq"></a>FAQ</h2>
 
 <h3>Why are the symbols in cross-tree constraints below the feature diagram are not displayed correctly?</h3>
-Please make sure that the font "Arial Unicode MS" is installed on your operating system so that FeatureIDE can use it to display the cross-tree constraints.
+Please make sure that the font <i>Arial Unicode MS</i> is installed on your operating system so that FeatureIDE can use it to display the cross-tree constraints.
 
 <h3>How can I use external jar files in my FeatureIDE project?</h3>
-For FeatureIDE 2.4 and older: Please create a folder named "lib" at the project root and insert all jar files which you intent to reference. The jar files are detected by the compiler and added as parameters if you run your FeatureIDE application.
+For FeatureIDE 2.4 and older: Please create a folder named <code>lib</code> at the project root and insert all jar files which you intent to reference. The jar files are detected by the compiler and added as parameters if you run your FeatureIDE application.
 <br/>
 For FeatureIDE 2.5 and newer: Right click the jar files in package explorer and add them to the Java build path.
 
 <h3>How can I compare two different feature models in FeatureIDE?</h3>
 <ol>
 <li>Prepare two FeatureIDE projects (A and B) that contain the feature models you want to compare. Either edit them using FeatureIDE or import them from other formats, e.g., GUIDSL.</li>
-<li>Open the feature model of project A, switch to the tab Source, and copy the whole document.</li>
-<li>Open the feature model of project B, switch to the tab Source, and paste the clipboard.</li>
+<li>Open the feature model of project A, switch to the tab <i>Source</i>, and copy the whole document.</li>
+<li>Open the feature model of project B, switch to the tab <i>Source</i>, and paste the clipboard.</li>
 <li>Switch back to the tab Feature Diagram in editor of project B and the feature model edit view will show the results.</li>
 </ol>
 Checkout this <a href="https://youtu.be/j_MfFVeb8J0">video</a> to see how to do it.
 
 <h3>How can I import/export the feature model from/to other tools?</h3>
-Select the file model.xml in Package Explorer and open the context menu &gt; FeatureIDE &gt; Import/Export ...
+Select the file model.xml in Package Explorer and open the context menu, then choose <i>FeatureIDE &gt; Import/Export ...</i>
 
 <h3>How can I store my feature model to a bitmap graphic or PDF file?</h3>
-Select or open your feature model and then choose "File" &gt; "Save As" or "File" &gt; "Print". The later option requires that you have an PDF printer installed and have a program to crop PDFs (such as Adobe Acrobat).
+Select or open your feature model and then choose <i>File &gt; Save As</i> or <i>File &gt; Print</i>. The latter option requires that you have a PDF printer installed and have a program to crop PDFs (such as Adobe Acrobat).
 <br/>
-Note, that you can change the layout of the feature model since FeatureIDE 2.6 using "Set Layout" in the context menu of the feature model editor. There are pre-defined layouts, but you can also manually move features for compact positioning.
+Note, that you can change the layout of the feature model since FeatureIDE 2.6 using <i>Set Layout</i> in the context menu of the feature model editor. There are pre-defined layouts, but you can also manually move features for compact positioning.
 
 <h2><a name="contact"></a>Contact</h2>
 
@@ -490,7 +490,7 @@ contact the <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">Fe
 * Ingo Siemers (University of Magdeburg, Germany)
 * Hannes Smuracsky (University of Magdeburg, Germany)
 * Torsten St&ouml;ter (University of Magdeburg, Germany)
-* Patrick Sulkowski(University of Magdeburg, Germany)
+* Patrick Sulkowski (University of Magdeburg, Germany)
 * Patrick Venohr (University of Magdeburg, Germany)
 * Jan Wedding (University of Magdeburg, Germany)
 * Fabian Wielgorz (University of Passau, Germany)
@@ -511,7 +511,7 @@ contact the <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">Fe
 <li>Is your lecture missing? Please <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">let us know</a>.</li>
 </ul>
 
-<p>Since December 2010 FeatureIDE is listed at the <a href="http://marketplace.eclipse.org/content/featureide">Eclipse marketplace</a>.</p>
+<p>Since December 2010 FeatureIDE is listed at the <a href="http://marketplace.eclipse.org/content/featureide">Eclipse Marketplace</a>.</p>
 
 <!--<img src="http://chart.googleapis.com/chart?chd=t%3A18.072289156627%2C19.277108433735%2C39.759036144578%2C33.734939759036%2C34.939759036145%2C25.301204819277%2C27.710843373494%2C33.734939759036%2C39.759036144578%2C100%2C68.674698795181%2C2.4096385542169&cht=bvg&chs=420x240&chtt=Marketplace%20Client%20Install&chts=000000%2C22&chl=1/12%7C2/12%7C3/12%7C4/12%7C5/12%7C6/12%7C7/12%7C8/12%7C9/12%7C10/12%7C11/12%7C12/12&chco=ff6c0a&chf=&chxr=0%2C0%2C83&chxl=1%3A%7C%20%7CInstalls%7C%20&chxt=r%2Cr&chxp=&chxs=1%2C000000%2C12&chbh=20%2C10"/></a>
 -->
