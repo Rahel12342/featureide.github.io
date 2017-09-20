@@ -233,6 +233,19 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 <th><a href="https://sites.google.com/a/ic.ufal.br/colligens/">Colligens</a> / <a href="https://gcc.gnu.org/onlinedocs/cpp/">CPP</a></th>
 <th><a href="http://deltaj.sourceforge.net/">DeltaJ</a></th>
 </tr>
+ <tr>
+<th><a href="https://www.eclipse.org/downloads/packages/release/Oxygen/R">Eclipse 4.7 (Oxygen)</a></th>
+<td bgcolor="#CCFFCC" align ="center">Yes</td>
+<td bgcolor="#CCFFCC" align ="center">Yes</td>
+<td bgcolor="#CCFFCC" align ="center">Yes</td>
+<td bgcolor="#CCFFCC" align ="center">Yes</td>
+<td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.3">CDT 9.3</a></td>
+<td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/47/dev/update">AJDT dev builds</a></td>
+<td bgcolor="#CCFFCC" align ="center">Yes</td>
+<td bgcolor="#CCFFCC" align ="center">Yes</td>
+<td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.3">CDT 9.3</a></td>
+<td bgcolor="#FFCCCC" align ="center">No</td>
+</tr>
 <tr>
 <th><a href="https://www.eclipse.org/downloads/packages/release/Neon/R">Eclipse 4.6 (Neon)</a></th>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
@@ -243,7 +256,7 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 <td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/46/dev/update">AJDT dev builds</a></td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
-<td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.1/">CDT 9.1</a></td>
+<td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.1">CDT 9.1</a></td>
 <td bgcolor="#FFCCCC" align ="center">No</td>
 </tr>
 <tr>
