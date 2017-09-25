@@ -83,8 +83,10 @@ A major problem of product-line engineering is still the missing tool support. T
 
 <ul class="bib2xhtml">
 
-<!-- Authors: Meinicke Jens and Thum Thomas and Schroter Reimar and Krieter
-Sebastian and Benduhn Fabian and Saake Gunter and Leich Thomas -->
+<li><a name="Meinicke17"></a>Jens Meinicke, Thomas Th&uuml;m, Reimar Schr&ouml;ter, Fabian Benduhn, Thomas Leich, and Gunter Saake.
+<a href="https://www.springer.com/book/9783319614427"><strong>Mastering Software Variability with FeatureIDE</strong></a>.
+Springer, 2017. To appear.</li>
+
 <li><a name="MeinickeTS+16"></a>Jens Meinicke, Thomas Th&uuml;m, Reimar
 Schr&ouml;ter, Sebastian Krieter, Fabian Benduhn, Gunter Saake, and Thomas
 Leich.
@@ -92,16 +94,12 @@ Leich.
 In <cite>Proceedings of the International Conference on Software Engineering
 (ICSE)</cite>, 2016.<br />&nbsp;</li>
 
-<!-- Authors: Pereira Juliana Alves and Krieter Sebastian and Meinicke Jens and
-Schroter Reimar and Saake Gunter and Leich Thomas -->
 <li><a name="PereiraKM+16"></a>Juliana&nbsp;Alves Pereira, Sebastian
 Krieter, Jens Meinicke, Reimar Schr&ouml;ter, Gunter Saake, and Thomas Leich.
 <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/auto/PereiraKM+16.pdf">FeatureIDE: Scalable Product Configuration of Variable Systems</a>.
 In <cite>Proceedings of the International Conference on Software Reuse
 (ICSR)</cite>, 2016.<br />&nbsp;</li>
 
-<!-- Authors: Thum Thomas and Kastner Christian and Benduhn Fabian and Meinicke
-Jens and Saake Gunter and Leich Thomas -->
 <li><a name="ThKaBe+:SCP12"></a>Thomas Th&uuml;m, Christian K&auml;stner,
 Fabian Benduhn, Jens Meinicke, Gunter Saake, and Thomas Leich.
 <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/auto/ThKaBe+:SCP12.pdf">FeatureIDE: An Extensible Framework for Feature-Oriented Software
@@ -109,19 +107,6 @@ Development</a>.
 <cite>Science of Computer Programming</cite>, 79(0):70&ndash;85, January
 2014.<br />&nbsp;</li>
 
-<!-- Authors: Fabian Benduhn and Thomas Thum -->
-<li><a name="BT11"></a>Fabian Benduhn and Thomas Th&uuml;m.
-<a href="https://jaxenter.com/featureide-a-novel-approach-to-developing-software-103939.html">FeatureIDE - A Novel Approach to Develop Software</a>.
-Online Portal, November 2011.<br />&nbsp;</li>
-
-<!-- Authors: Thomas Thum and Fabian Benduhn -->
-<li><a name="TB11"></a>Thomas Th&uuml;m and Fabian Benduhn.
-<a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/auto/TB11.pdf">Entwicklung von Softwarevarianten mit FeatureIDE</a>.
-<cite>Eclipse Magazin</cite>, 12(1):94&ndash;97, November 2011.
-In German.<br />&nbsp;</li>
-
-<!-- Authors: Christian Kastner and Thomas Thum and Gunter Saake and Janet
-Feigenspan and Thomas Leich and Fabian Wielgorz and Sven Apel -->
 <li><a name="KTSFLWA:ICSE09"></a>Christian K&auml;stner, Thomas Th&uuml;m,
 Gunter Saake, Janet Feigenspan, Thomas Leich, Fabian Wielgorz, and Sven Apel.
 <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/09/icse2009_featureide_demo.pdf">FeatureIDE: Tool Framework for Feature-Oriented Software
@@ -130,7 +115,6 @@ In <cite>Proceedings of the 31th International Conference on Software
 Engineering (ICSE)</cite>, pages 611&ndash;614. IEEE Computer Society, May 2009.
 Formal Demonstration paper.<br />&nbsp;</li>
 
-<!-- Authors: T Leich and S Apel and L Marnitz and G Saake -->
 <li><a name="LeiApeMar05oopsla"></a>T.&nbsp;Leich, S.&nbsp;Apel, L.&nbsp;Marnitz, and
 G.&nbsp;Saake.
 <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/auto/LeiApeMar05oopsla.pdf">Tool Support for Feature-Oriented Software Development -
