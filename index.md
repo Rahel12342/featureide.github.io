@@ -84,8 +84,8 @@ A major problem of product-line engineering is still the missing tool support. T
 <ul class="bib2xhtml">
 
 <li><a name="Meinicke17"></a>Jens Meinicke, Thomas Th&uuml;m, Reimar Schr&ouml;ter, Fabian Benduhn, Thomas Leich, and Gunter Saake.
-<a href="https://www.springer.com/book/9783319614427"><strong>Mastering Software Variability with FeatureIDE</strong></a>.
-Springer, 2017. To appear.</li>
+<a href="https://www.springer.com/book/9783319614427">Mastering Software Variability with FeatureIDE</a>.
+Springer, 2017. To appear.<br />&nbsp;</li>
 
 <li><a name="MeinickeTS+16"></a>Jens Meinicke, Thomas Th&uuml;m, Reimar
 Schr&ouml;ter, Sebastian Krieter, Fabian Benduhn, Gunter Saake, and Thomas
