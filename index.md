@@ -427,33 +427,39 @@ of Magdeburg, Germany. It is open source, to acquire the source code see Git rep
 For information about the project, technical questions and bug reports: please
 contact the <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">FeatureIDE development team</a>. You can also use our <a href="https://github.com/tthuem/FeatureIDE/issues/new">bug tracker</a>.</p>
 
-<p><em>FeatureIDE</em> project members and contributors:</p>
+<p>FeatureIDE development team:</p>
 
 * <a href="https://www.tu-braunschweig.de/isf/team/thuem">Thomas Th&uuml;m</a> (TU Braunschweig, Germany; University of Magdeburg, Germany; University of Texas at Austin, USA)
+* <a href="http://wwwiti.cs.uni-magdeburg.de/~krieter/">Sebastian Krieter</a> (University of Magdeburg, Germany)
 * <a href="https://wwwiti.cs.uni-magdeburg.de/~meinicke">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg; Metop Research Institute, Germany)
+* Christopher Sontag (TU Braunschweig, Germany)
+* Joshua Sprey (TU Braunschweig, Germany)
+* Timo G&uuml;nther (TU Braunschweig, Germany)
+* <a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany)
+* <a href="http://wwwiti.cs.uni-magdeburg.de/~saake/">Gunter Saake</a> (University of Passau, Germany)
+* <a href="https://www.tu-braunschweig.de/isf/team/schaefer/index.html">Ina Schaefer</a> (TU Braunschweig, Germany)
 * <a href="https://www.cs.cmu.edu/~ckaestne/">Christian K&auml;stner</a> (Carnegie Mellon University, USA)
-* <a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Magdeburg, Germany)
-* <a href="https://wwwiti.cs.uni-magdeburg.de/~rschroet/">Reimar Schr&ouml;ter</a> (University of Magdeburg, Germany)
-* <a href="https://wwwiti.cs.uni-magdeburg.de/~benduhn/">Fabian Benduhn</a> (University of Magdeburg, Germany)
-* Sebastian Krieter (University of Magdeburg, Germany)
-* Konstantin Tonscheidt (University of Magdeburg, Germany)
-* Marcus Pinnecke (University of Magdeburg, Germany)
-* Christopher Kruczek (Metop Research Institute, Magdeburg, Germany)
-* Stefan Kr&uuml;ger (University of Paderborn, Germany)
-* Sven Schuster (University of Braunschweig, Germany)
-* <a href="https://www.tu-braunschweig.de/isf/team/schulze">Sandro Schulze</a> (University of Braunschweig, Germany)
-* <a href="http://www.ic.ufal.br/marcio">M&aacute;rcio Ribeiro</a> (Federal University of Alagoas, Brazil)
-* Francisco Dalton (Federal University of Alagoas, Brazil)
-* Thiago Emmanuel de Oliveira Lima (Federal University of Alagoas, Brazil)
-* Fl&aacute;vio Medeiros (Federal University of Alagoas, Brazil)
-* Indika Weerasingha Kumara (Swinburne University of Technology, Melbourne, Australia)
-* <a href="https://www.ict.swin.edu.au/personal/mkapuruge/">Malinda Kaushalye Kapuruge</a> (Swinburne University of Technology, Melbourne, Australia)
-* <a href="http://cs.unibg.it/gargantini/">Angelo Gargantini</a> (University of Bergamo, Italy)
-* Paolo Vavassori (University of Bergamo, Italy)
-* <a href="https://www.cs.utexas.edu/~dsb/">Don Batory</a> (University of Texas at Austin, USA)
 * <a href="https://www.infosun.fim.uni-passau.de/cl/staff/apel/">Sven Apel</a> (University of Passau, Germany)
 
-<p>Former project members and contributors:</p>
+<p>Further contributors and former project members:</p>
+
+* <a href="http://cs.unibg.it/gargantini/">Angelo Gargantini</a> (University of Bergamo, Italy)
+* Christopher Kruczek (Metop Research Institute, Magdeburg, Germany)
+* <a href="https://www.cs.utexas.edu/~dsb/">Don Batory</a> (University of Texas at Austin, USA)
+* <a href="https://wwwiti.cs.uni-magdeburg.de/~benduhn/">Fabian Benduhn</a> (University of Magdeburg, Germany)
+* Fl&aacute;vio Medeiros (Federal University of Alagoas, Brazil)
+* Francisco Dalton (Federal University of Alagoas, Brazil)
+* Indika Weerasingha Kumara (Swinburne University of Technology, Melbourne, Australia)
+* Konstantin Tonscheidt (University of Magdeburg, Germany)
+* <a href="https://www.ict.swin.edu.au/personal/mkapuruge/">Malinda Kaushalye Kapuruge</a> (Swinburne University of Technology, Melbourne, Australia)
+* <a href="http://www.ic.ufal.br/marcio">M&aacute;rcio Ribeiro</a> (Federal University of Alagoas, Brazil)
+* Marcus Pinnecke (University of Magdeburg, Germany)
+* Paolo Vavassori (University of Bergamo, Italy)
+* <a href="https://wwwiti.cs.uni-magdeburg.de/~rschroet/">Reimar Schr&ouml;ter</a> (University of Magdeburg, Germany)
+* <a href="https://www.tu-braunschweig.de/isf/team/schulze">Sandro Schulze</a> (University of Braunschweig, Germany)
+* Stefan Kr&uuml;ger (University of Paderborn, Germany)
+* Sven Schuster (University of Braunschweig, Germany)
+* Thiago Emmanuel de Oliveira Lima (Federal University of Alagoas, Brazil)
 
 * Constanze Adler (University of Magdeburg, Germany)
 * Christian Becker (University of Magdeburg, Germany)
