@@ -424,12 +424,12 @@ Note, that you can change the layout of the feature model since FeatureIDE 2.6 u
 
 <p><em>FeatureIDE</em> is developed mainly at the University
 of Magdeburg, Germany. It is open source, to acquire the source code see Git repository and bug tracker above.
-For information about the project, technical questions and bug reports: please
-contact the <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">FeatureIDE development team</a>. You can also use our <a href="https://github.com/tthuem/FeatureIDE/issues/new">bug tracker</a>.</p>
+For information about the project, support requests, and technical questions, do not hesitate to
+contact the <a href="mailto:t.thuem@tu-braunschweig.de?cc:jens.meinicke@ovgu.de,sebastian.krieter@ovgu.de;subject=FeatureIDE">FeatureIDE development team</a>. For bug reports, you can use our <a href="https://github.com/FeatureIDE/FeatureIDE/issues/new">bug tracker</a>.</p>
 
 <p>FeatureIDE development team:</p>
 
-* <a href="https://www.tu-braunschweig.de/isf/team/thuem">Thomas Th&uuml;m</a> (TU Braunschweig, Germany; University of Magdeburg, Germany; University of Texas at Austin, USA)
+<li><a href="https://www.tu-braunschweig.de/isf/team/thuem">Thomas Th&uuml;m</a> (TU Braunschweig, Germany; University of Magdeburg, Germany; University of Texas at Austin, USA)
 * <a href="http://wwwiti.cs.uni-magdeburg.de/~krieter/">Sebastian Krieter</a> (University of Magdeburg, Germany)
 * <a href="https://wwwiti.cs.uni-magdeburg.de/~meinicke">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg; Metop Research Institute, Germany)
 * Christopher Sontag (TU Braunschweig, Germany)
