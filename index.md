@@ -447,6 +447,9 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Alexander Dreiling (University of Magdeburg, Germany)</li>
 <li>Alexander Schmidt (University of Magdeburg, Germany)</li>
 <li><a href="http://cs.unibg.it/gargantini/">Angelo Gargantini</a> (University of Bergamo, Italy)</li>
+<li>Anna-Liisa Ahola (TU Braunschweig, Germany)</li>
+<li>Antje Mönch (TU Braunschweig, Germany)</li>
+<li>Chico Sundermann (TU Braunschweig, Germany)</li>
 <li>Christian Becker (University of Magdeburg, Germany)</li>
 <li>Christian Lausberger (University of Magdeburg, Germany)</li>
 <li>Christoph Giesel (University of Magdeburg, Germany)</li>
@@ -456,8 +459,12 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Dariusz Krolikowski (University of Magdeburg, Germany)</li>
 <li>David Broneske (University of Magdeburg, Germany)</li>
 <li>David Halm (University of Magdeburg, Germany)</li>
+<li>Dawid Szczepanski  (TU Braunschweig, Germany)</li>
 <li>Dominik Hamann (University of Magdeburg, Germany)</li>
 <li><a href="https://www.cs.utexas.edu/~dsb/">Don Batory</a> (University of Texas at Austin, USA)</li>
+<li>Edgard Schmidt (TU Braunschweig, Germany)</li>
+<li>Edward Bechthold (TU Braunschweig, Germany)</li>
+<li>Enis Belli (TU Braunschweig, Germany)</li>
 <li>Eric Schubert (University of Magdeburg, Germany)</li>
 <li>Erik D&auml;nike (University of Magdeburg, Germany)</li>
 <li><a href="https://wwwiti.cs.uni-magdeburg.de/~benduhn/">Fabian Benduhn</a> (University of Magdeburg, Germany)</li>
@@ -467,29 +474,42 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Florian Proksch (University of Magdeburg, Germany)</li>
 <li>Francisco Dalton (Federal University of Alagoas, Brazil)</li>
 <li>Hannes Smuracsky (University of Magdeburg, Germany)</li>
+<li>Holger Fenske (TU Braunschweig, Germany)</li>
 <li>Indika Weerasingha Kumara (Swinburne University of Technology, Melbourne, Australia)</li>
 <li>Ingo Siemers (University of Magdeburg, Germany)</li>
 <li>Jan Wedding (University of Magdeburg, Germany)</li>
+<li>Jan Werner (TU Braunschweig, Germany)</li>
 <li>Janet Siegmund (Feigenspan) (Metop Research Institute, Magdeburg, Germany)</li>
+<li>Jann-Ole Henningson (TU Braunschweig, Germany)</li>
 <li>J&ouml;rg Liebig (University of Passau, Germany)</li>
 <li>Konstantin Tonscheidt (University of Magdeburg, Germany)</li>
 <li>Laura Marnitz (University of Magdeburg, Germany)</li>
 <li>Maik Lampe (University of Magdeburg, Germany)</li>
 <li><a href="https://www.ict.swin.edu.au/personal/mkapuruge/">Malinda Kaushalye Kapuruge</a> (Swinburne University of Technology, Melbourne, Australia)</li>
+<li>Marcel Daniel (TU Braunschweig, Germany)</li>
 <li><a href="http://www.ic.ufal.br/marcio">M&aacute;rcio Ribeiro</a> (Federal University of Alagoas, Brazil)</li>
 <li>Marcus Kamieth (University of Magdeburg, Germany)</li>
 <li>Marcus Leich (University of Magdeburg, Germany)</li>
 <li>Marcus Pinnecke (University of Magdeburg, Germany)</li>
+<li>Marlen Bernier  (TU Braunschweig, Germany)</li>
+<li>Maximilian Homann (TU Braunschweig, Germany)</li>
 <li>Melanie Pflaume (University of Magdeburg, Germany)</li>
+<li>Mohammed Mahhouk (TU Braunschweig, Germany)</li>
+<li>Niklas Lehnfeld (TU Braunschweig, Germany)</li>
+<li>Oliver Urbaniak (TU Braunschweig, Germany)</li>
 <li>Paolo Vavassori (University of Bergamo, Italy)</li>
+<li>Paul Maximilian Bittner (TU Braunschweig, Germany)</li>
+<li>Paul Westphal (TU Braunschweig, Germany)</li>
 <li>Patrick Sulkowski (University of Magdeburg, Germany)</li>
 <li>Patrick Venohr (University of Magdeburg, Germany)</li>
 <li>Patrik Haese (University of Magdeburg, Germany)</li>
+<li>Philipp Kuhn (TU Braunschweig, Germany)</li>
 <li><a href="https://wwwiti.cs.uni-magdeburg.de/~rschroet/">Reimar Schr&ouml;ter</a> (University of Magdeburg, Germany)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/team/schulze">Sandro Schulze</a> (University of Magdeburg, Germany)</li>
 <li>S&ouml;nke Holthusen (University of Magdeburg, Germany)</li>
 <li>Sebastian Henneberg (University of Passau, Germany)</li>
 <li>Stefan Kr&uuml;ger (University of Paderborn, Germany)</li>
+<li>Stefanie Schober (TU Braunschweig, Germany)</li>
 <li>Steffen Schulze (University of Magdeburg, Germany)</li>
 <li>Stephan Besecke (University of Magdeburg, Germany)</li>
 <li>Stephan Kauschka (University of Magdeburg, Germany)</li>
