@@ -323,7 +323,7 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 <a href="https://github.com/tthuem/FeatureIDE/wiki">wiki</a>.</p>
 <p>When importing the FeatureIDE plug-ins, a) deselect the checkbox for nested projectes, and b) type 'plugins' into the filter. Then you can import the projects you need.</p>
 
-<p>Before switching to Git and GitHub, we used to work with [SVN](https://faracvs.cs.uni-magdeburg.de/svn/tthuem-FeatureIDE) (deprecated) and [Trac](https://faracvs.cs.uni-magdeburg.de/projects/tthuem-FeatureIDE/) (deprecated). The FeatureIDE website has also been published on other domains, such as <http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/>.</p>
+Before switching to Git and GitHub, we used to work with [SVN](https://faracvs.cs.uni-magdeburg.de/svn/tthuem-FeatureIDE) (deprecated) and [Trac](https://faracvs.cs.uni-magdeburg.de/projects/tthuem-FeatureIDE/) (deprecated). The FeatureIDE website has also been published on other domains, such as <http://wwwiti.cs.uni-magdeburg.de/iti_db/research/featureide/>.
 
 <h3>Miscellaneous</h3>
 
