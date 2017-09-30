@@ -422,24 +422,24 @@ Note, that you can change the layout of the feature model since FeatureIDE 2.6 u
 
 <h2><a name="contact"></a>Contact</h2>
 
-<p><em>FeatureIDE</em> is developed mainly at the University
-of Magdeburg, Germany. It is open source, to acquire the source code see Git repository and bug tracker above.
-For information about the project, support requests, and technical questions, do not hesitate to
-contact the <a href="mailto:t.thuem@tu-braunschweig.de?cc:jens.meinicke@ovgu.de,sebastian.krieter@ovgu.de;subject=FeatureIDE">FeatureIDE development team</a>. For bug reports, you can use our <a href="https://github.com/FeatureIDE/FeatureIDE/issues/new">bug tracker</a>.</p>
+<p>For more information about the project, support requests, and technical questions, do not hesitate to
+contact the <a href="mailto:t.thuem@tu-braunschweig.de,jens.meinicke@ovgu.de,sebastian.krieter@ovgu.de">FeatureIDE development team</a>. For bug reports, you can use our <a href="https://github.com/FeatureIDE/FeatureIDE/issues/new">bug tracker</a>.</p>
 
 <p>FeatureIDE development team:</p>
 
-<li><a href="https://www.tu-braunschweig.de/isf/team/thuem">Thomas Th&uuml;m</a> (TU Braunschweig, Germany; University of Magdeburg, Germany; University of Texas at Austin, USA)
-* <a href="http://wwwiti.cs.uni-magdeburg.de/~krieter/">Sebastian Krieter</a> (University of Magdeburg, Germany)
-* <a href="https://wwwiti.cs.uni-magdeburg.de/~meinicke">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg; Metop Research Institute, Germany)
-* Christopher Sontag (TU Braunschweig, Germany)
-* Joshua Sprey (TU Braunschweig, Germany)
-* Timo G&uuml;nther (TU Braunschweig, Germany)
-* <a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany)
-* <a href="http://wwwiti.cs.uni-magdeburg.de/~saake/">Gunter Saake</a> (University of Passau, Germany)
-* <a href="https://www.tu-braunschweig.de/isf/team/schaefer/index.html">Ina Schaefer</a> (TU Braunschweig, Germany)
-* <a href="https://www.cs.cmu.edu/~ckaestne/">Christian K&auml;stner</a> (Carnegie Mellon University, USA)
-* <a href="https://www.infosun.fim.uni-passau.de/cl/staff/apel/">Sven Apel</a> (University of Passau, Germany)
+<ul>
+<li><a href="https://www.tu-braunschweig.de/isf/team/thuem">Thomas Th&uuml;m</a> (TU Braunschweig, Germany; University of Magdeburg, Germany; University of Texas at Austin, USA)</li>
+<li><a href="http://wwwiti.cs.uni-magdeburg.de/~krieter/">Sebastian Krieter</a> (University of Magdeburg, Germany)</li>
+<li><a href="https://wwwiti.cs.uni-magdeburg.de/~meinicke">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg; Metop Research Institute, Germany)</li>
+<li>Christopher Sontag (TU Braunschweig, Germany)</li>
+<li>Joshua Sprey (TU Braunschweig, Germany)</li>
+<li>Timo G&uuml;nther (TU Braunschweig, Germany)</li>
+<li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany)</li>
+<li><a href="http://wwwiti.cs.uni-magdeburg.de/~saake/">Gunter Saake</a> (University of Passau, Germany)</li>
+<li><a href="https://www.tu-braunschweig.de/isf/team/schaefer/index.html">Ina Schaefer</a> (TU Braunschweig, Germany)</li>
+<li><a href="https://www.cs.cmu.edu/~ckaestne/">Christian K&auml;stner</a> (Carnegie Mellon University, USA)</li>
+<li><a href="https://www.infosun.fim.uni-passau.de/cl/staff/apel/">Sven Apel</a> (University of Passau, Germany)</li>
+</ul>
 
 <p>Further contributors and former project members:</p>
 
