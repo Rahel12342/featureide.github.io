@@ -456,6 +456,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Christopher Kruczek (Metop Research Institute, Magdeburg, Germany)</li>
 <li>Constanze Adler (University of Magdeburg, Germany)</li>
 <li>Cyrill Meier (University of Magdeburg, Germany)</li>
+<li>Daniel Hohmann (University of Magdeburg, Germany)</li>
 <li>Dariusz Krolikowski (University of Magdeburg, Germany)</li>
 <li>David Broneske (University of Magdeburg, Germany)</li>
 <li>David Halm (University of Magdeburg, Germany)</li>
@@ -482,6 +483,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Janet Siegmund (Feigenspan) (Metop Research Institute, Magdeburg, Germany)</li>
 <li>Jann-Ole Henningson (TU Braunschweig, Germany)</li>
 <li>J&ouml;rg Liebig (University of Passau, Germany)</li>
+<li>Kai Wolf (University of Magdeburg, Germany)</li>
 <li>Konstantin Tonscheidt (University of Magdeburg, Germany)</li>
 <li>Laura Marnitz (University of Magdeburg, Germany)</li>
 <li>Maik Lampe (University of Magdeburg, Germany)</li>
@@ -492,6 +494,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Marcus Leich (University of Magdeburg, Germany)</li>
 <li>Marcus Pinnecke (University of Magdeburg, Germany)</li>
 <li>Marlen Bernier  (TU Braunschweig, Germany)</li>
+<li>Matthias Quaas (University of Magdeburg, Germany)</li>
 <li>Maximilian Homann (TU Braunschweig, Germany)</li>
 <li>Melanie Pflaume (University of Magdeburg, Germany)</li>
 <li>Mohammed Mahhouk (TU Braunschweig, Germany)</li>
