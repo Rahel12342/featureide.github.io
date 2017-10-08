@@ -87,6 +87,14 @@ A major problem of product-line engineering is still the missing tool support. T
 <a href="https://www.springer.com/book/9783319614427">Mastering Software Variability with FeatureIDE</a>.
 Springer, 2017. To appear.<br />&nbsp;</li>
 
+<li><a name="AlhajjajiMK+:GPCE16"></a>Mustafa Al-Hajjaji, Jens Meinicke,
+  Sebastian Krieter, Reimar Schröter, Thomas Thüm, Thomas Leich, and
+  Gunter Saake.
+<a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/auto/AlhajjajiMK+:GPCE16.pdf">Tool Demo: Testing Configurable Systems with FeatureIDE</a>.
+In <cite>Proceedings of the International Conference on Generative Programming:
+  Concepts &amp; Experiences (GPCE)</cite>, pages 173–177, New York, NY, USA,
+  October 2016. <a href="https://dl.acm.org/citation.cfm?id=2993254">ACM</a>.<br>&nbsp;</li>
+  
 <li><a name="MeinickeTS+16"></a>Jens Meinicke, Thomas Th&uuml;m, Reimar
 Schr&ouml;ter, Sebastian Krieter, Fabian Benduhn, Gunter Saake, and Thomas
 Leich.
