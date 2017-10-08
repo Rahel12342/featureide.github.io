@@ -104,23 +104,20 @@ In Proceedings of the International Conference on Software Engineering (ICSE), p
 <li><a name="PereiraKM+16"></a>Juliana&nbsp;Alves Pereira, Sebastian
 Krieter, Jens Meinicke, Reimar Schr&ouml;ter, Gunter Saake, and Thomas Leich.
 <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/auto/PereiraKM+16.pdf">FeatureIDE: Scalable Product Configuration of Variable Systems</a>.
-In <cite>Proceedings of the International Conference on Software Reuse
-(ICSR)</cite>, 2016.<br />&nbsp;</li>
+In Proceedings of the International Conference on Software Reuse (ICSR), pages 397-401, New York, NY, USA. <a href="https://link.springer.com/chapter/10.1007/978-3-319-35122-3_27">Springer</a>. (Link to <a href="https://dl.acm.org/citation.cfm?id=2986202">ACM</a>)<br />&nbsp;</li>
 
 <li><a name="ThKaBe+:SCP12"></a>Thomas Th&uuml;m, Christian K&auml;stner,
 Fabian Benduhn, Jens Meinicke, Gunter Saake, and Thomas Leich.
-<a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/auto/ThKaBe+:SCP12.pdf">FeatureIDE: An Extensible Framework for Feature-Oriented Software
-Development</a>.
+<a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/auto/ThKaBe+:SCP12.pdf">FeatureIDE: An Extensible Framework for Feature-Oriented Software Development</a>.
 <cite>Science of Computer Programming</cite>, 79(0):70&ndash;85, January
-2014.<br />&nbsp;</li>
+2014. (Link to <a href="https://dl.acm.org/citation.cfm?id=2537315">ACM</a>)<br />&nbsp;</li>
 
 <li><a name="KTSFLWA:ICSE09"></a>Christian K&auml;stner, Thomas Th&uuml;m,
 Gunter Saake, Janet Feigenspan, Thomas Leich, Fabian Wielgorz, and Sven Apel.
 <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/09/icse2009_featureide_demo.pdf">FeatureIDE: Tool Framework for Feature-Oriented Software
 Development</a>.
-In <cite>Proceedings of the 31th International Conference on Software
-Engineering (ICSE)</cite>, pages 611&ndash;614. IEEE Computer Society, May 2009.
-Formal Demonstration paper.<br />&nbsp;</li>
+In <cite>Proceedings of the International Conference on Software
+Engineering (ICSE)</cite>, pages 611&ndash;614. IEEE Computer Society, May 2009. (Link to <a href="https://dl.acm.org/citation.cfm?id=1555087">ACM</a>)<br />&nbsp;</li>
 
 <li><a name="LeiApeMar05oopsla"></a>T.&nbsp;Leich, S.&nbsp;Apel, L.&nbsp;Marnitz, and
 G.&nbsp;Saake.
@@ -128,7 +125,7 @@ G.&nbsp;Saake.
 FeatureIDE: An Eclipse-Based Approach -</a>.
 In <cite>Proceedings of OOPSLA Eclipse Technology eXchange (ETX)
 Workshop</cite>, pages 55&ndash;59, San Diego, USA, October
-2005.<br />&nbsp;</li>
+2005. (Link to <a href="https://dl.acm.org/citation.cfm?id=1117708">ACM</a>)<br />&nbsp;</li>
 
 </ul>
 
