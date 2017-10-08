@@ -88,19 +88,18 @@ A major problem of product-line engineering is still the missing tool support. T
 Springer, 2017. To appear.<br />&nbsp;</li>
 
 <li><a name="AlhajjajiMK+:GPCE16"></a>Mustafa Al-Hajjaji, Jens Meinicke,
-  Sebastian Krieter, Reimar Schröter, Thomas Thüm, Thomas Leich, and
+  Sebastian Krieter, Reimar Schr&ouml;ter, Thomas Th&uuml;m, Thomas Leich, and
   Gunter Saake.
 <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/auto/AlhajjajiMK+:GPCE16.pdf">Tool Demo: Testing Configurable Systems with FeatureIDE</a>.
 In <cite>Proceedings of the International Conference on Generative Programming:
   Concepts &amp; Experiences (GPCE)</cite>, pages 173–177, New York, NY, USA,
   October 2016. <a href="https://dl.acm.org/citation.cfm?id=2993254">ACM</a>.<br>&nbsp;</li>
-  
+ 
 <li><a name="MeinickeTS+16"></a>Jens Meinicke, Thomas Th&uuml;m, Reimar
 Schr&ouml;ter, Sebastian Krieter, Fabian Benduhn, Gunter Saake, and Thomas
 Leich.
 <a href="http://wwwiti.cs.uni-magdeburg.de/iti_db/publikationen/ps/auto/MeinickeTS+16.pdf">FeatureIDE: Taming the Preprocessor Wilderness</a>.
-In <cite>Proceedings of the International Conference on Software Engineering
-(ICSE)</cite>, 2016.<br />&nbsp;</li>
+In Proceedings of the International Conference on Software Engineering (ICSE), pages 629-632, New York, NY, USA. May 2016. <a href="https://dl.acm.org/citation.cfm?id=2889175">ACM</a>.<br />&nbsp;</li>
 
 <li><a name="PereiraKM+16"></a>Juliana&nbsp;Alves Pereira, Sebastian
 Krieter, Jens Meinicke, Reimar Schr&ouml;ter, Gunter Saake, and Thomas Leich.
