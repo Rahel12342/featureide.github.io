@@ -540,6 +540,8 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li><a href="http://www.jku.at/isse/content/e104861">TU Wien, Austria</a> (Rick Rabiser)</li>
 <li><a href="https://www.cs.cmu.edu/~ckaestne/teaching.html">Carnegie Mellon University, USA</a> (Christian K&auml;stner)</li>
 <li><a href="https://www.hs-harz.de/tleich/lehre/">Hochschule Harz, Germany</a> (Thomas Leich)</li>
+<li><a href="https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/ist/rgse/teaching">University of Koblenz-Landau, Germany</a> (Daniel Str&uuml;ber, Jan Jürjens)</li>
+<li>University of Lille, France (Clément Quinton)</li>
 <li>Is your lecture missing? Please <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">let us know</a>.</li>
 </ul>
 
