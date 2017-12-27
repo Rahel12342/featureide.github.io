@@ -439,7 +439,8 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li><a href="https://wwwiti.cs.uni-magdeburg.de/~meinicke">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg, Germany)</li>
 <li>Christopher Sontag (TU Braunschweig, Germany)</li>
 <li>Joshua Sprey (TU Braunschweig, Germany)</li>
-<li>Timo G&uuml;nther (TU Braunschweig, Germany)</li>
+<li>Paul Westphal (TU Braunschweig, Germany)</li>
+<li>Holger Fenske (TU Braunschweig, Germany)</li>
 <li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany; Harz University of Applied Sciences, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~saake/">Gunter Saake</a> (University of Magdeburg, Germany)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/team/schaefer/index.html">Ina Schaefer</a> (TU Braunschweig, Germany)</li>
@@ -508,7 +509,6 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Oliver Urbaniak (TU Braunschweig, Germany)</li>
 <li>Paolo Vavassori (University of Bergamo, Italy)</li>
 <li>Paul Maximilian Bittner (TU Braunschweig, Germany)</li>
-<li>Paul Westphal (TU Braunschweig, Germany)</li>
 <li>Patrick Sulkowski (University of Magdeburg, Germany)</li>
 <li>Patrick Venohr (University of Magdeburg, Germany)</li>
 <li>Patrik Haese (University of Magdeburg, Germany)</li>
@@ -525,6 +525,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Sven Schuster (University of Braunschweig, Germany)</li>
 <li>Thiago Emmanuel de Oliveira Lima (Federal University of Alagoas, Brazil)</li>
 <li>Tim Lautenschl&auml;ger (University of Magdeburg, Germany)</li>
+<li>Timo G&uuml;nther (TU Braunschweig, Germany)</li>
 <li>Tom Brosch (University of Magdeburg, Germany)</li>
 <li>Torsten St&ouml;ter (University of Magdeburg, Germany)</li>
 </ul>
