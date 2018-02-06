@@ -540,7 +540,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li><a href="https://www.uni-marburg.de/fb12/arbeitsgruppen/swt/lehre">University of Marburg, Germany</a> (Christian K&auml;stner, Daniel Str&uuml;ber, Gabriele Taentzer)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/teaching">TU Braunschweig, Germany</a> (Sandro Schulze, Thomas Th&uuml;m)</li>
 <li><a href="http://www.es.tu-darmstadt.de/lehre/aktuelle-veranstaltungen/">TU Darmstadt, Germany</a> (Malte Lochau)</li>
-<li><a href="http://www.jku.at/isse/content/e104861">JKU Linz, Austria</a> (<a href="http://mevss.jku.at/?page_id=57">Rick Rabiser</a>)</li>
+<li><a href="http://www.isse.jku.at/">JKU Linz, Austria</a> (<a href="http://mevss.jku.at/?page_id=57">Rick Rabiser</a>)</li>
 <li><a href="https://www.cs.cmu.edu/~ckaestne/teaching.html">Carnegie Mellon University, USA</a> (Christian K&auml;stner)</li>
 <li><a href="https://www.hs-harz.de/tleich/lehre/">Hochschule Harz, Germany</a> (Thomas Leich)</li>
 <li><a href="https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/ist/rgse/teaching">University of Koblenz-Landau, Germany</a> (Daniel Str&uuml;ber, Jan Jürjens)</li>
