@@ -226,16 +226,29 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 <th><a href="http://deltaj.sourceforge.net/">DeltaJ</a></th>
 </tr>
  <tr>
+<th><a href="https://www.eclipse.org/downloads/packages/release/Oxygen/R">Eclipse 4.8 (Photon)</a></th>
+<td bgcolor="#CCFFCC" align ="center">Yes</td>
+<td bgcolor="#CCFFCC" align ="center">Yes</td>
+<td bgcolor="#CCFFCC" align ="center">Yes</td>
+<td bgcolor="#CCFFCC" align ="center">Yes</td>
+<td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.5">CDT 9.5</a></td>
+<td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/48/dev/update">AJDT 4.8 dev builds</a></td>
+<td bgcolor="#CCFFCC" align ="center">Yes</td>
+<td bgcolor="#CCFFCC" align ="center">Yes</td>
+<td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.5">CDT 9.5</a></td>
+<td bgcolor="#FFCCCC" align ="center">No</td>
+</tr>
+ <tr>
 <th><a href="https://www.eclipse.org/downloads/packages/release/Oxygen/R">Eclipse 4.7 (Oxygen)</a></th>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
-<td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.3">CDT 9.3</a></td>
-<td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/47/dev/update">AJDT dev builds</a></td>
+<td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.3">CDT 9.3</a>, <a href="http://download.eclipse.org/tools/cdt/releases/9.4">CDT 9.4</a></td>
+<td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/47/dev/update">AJDT 4.7 dev builds</a></td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
-<td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.3">CDT 9.3</a></td>
+<td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.3">CDT 9.3</a>, <a href="http://download.eclipse.org/tools/cdt/releases/9.4">CDT 9.4</a></td>
 <td bgcolor="#FFCCCC" align ="center">No</td>
 </tr>
 <tr>
@@ -245,7 +258,7 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.1">CDT 9.1</a></td>
-<td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/46/dev/update">AJDT dev builds</a></td>
+<td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/46/dev/update">AJDT 4.6 dev builds</a></td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.1">CDT 9.1</a></td>
@@ -258,7 +271,7 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/8.8.1">CDT 8.8.1</a></td>
-<td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/45/dev/update">AJDT dev builds</a></td>
+<td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/45/dev/update">AJDT 4.5 dev builds</a></td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href=" http://download.eclipse.org/tools/cdt/releases/8.8.1">CDT 8.8.1</a></td>
@@ -271,7 +284,7 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/8.6">CDT 8.6</a></td>
-<td bgcolor="#FFFFCC" align ="center">Yes, <a href="http://download.eclipse.org/tools/ajdt/44/dev/update">AJDT dev builds</a> seems to work</td>
+<td bgcolor="#FFFFCC" align ="center">Yes, <a href="http://download.eclipse.org/tools/ajdt/44/dev/update">AJDT 4.4 dev builds</a> seems to work</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/8.6">CDT 8.6</a></td>
