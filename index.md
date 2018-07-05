@@ -259,7 +259,7 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.1">CDT 9.1</a></td>
-<td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/46/dev/update">AJDT 4.6 dev builds</a></td>
+<td bgcolor="#FFFFCC" align ="center">Yes, <a href="http://download.eclipse.org/tools/ajdt/46/dev/update">AJDT 4.6 dev builds</a> seem to work</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.1">CDT 9.1</a></td>
@@ -272,7 +272,7 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/8.8.1">CDT 8.8.1</a></td>
-<td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/45/dev/update">AJDT 4.5 dev builds</a></td>
+<td bgcolor="#FFFFCC" align ="center">Yes, <a href="http://download.eclipse.org/tools/ajdt/45/dev/update">AJDT 4.5 dev builds</a> seem to work</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href=" http://download.eclipse.org/tools/cdt/releases/8.8.1">CDT 8.8.1</a></td>
@@ -285,7 +285,7 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/8.6">CDT 8.6</a></td>
-<td bgcolor="#FFFFCC" align ="center">Yes, <a href="http://download.eclipse.org/tools/ajdt/44/dev/update">AJDT 4.4 dev builds</a> seems to work</td>
+<td bgcolor="#FFFFCC" align ="center">Yes, <a href="http://download.eclipse.org/tools/ajdt/44/dev/update">AJDT 4.4 dev builds</a> seem to work</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/8.6">CDT 8.6</a></td>
