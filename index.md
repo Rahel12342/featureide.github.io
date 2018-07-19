@@ -233,7 +233,7 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.5">CDT 9.5</a></td>
-<td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/48/dev/update">AJDT 4.8 dev builds</a></td>
+<td bgcolor="#FFCCCC" align ="center"><a href="http://download.eclipse.org/tools/ajdt/48/dev/update">AJDT 4.8 dev builds</a> available, but too buggy</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.5">CDT 9.5</a></td>
@@ -246,7 +246,7 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.3">CDT 9.3</a>, <a href="http://download.eclipse.org/tools/cdt/releases/9.4">CDT 9.4</a></td>
-<td bgcolor="#CCCCCC" align ="center">? <a href="http://download.eclipse.org/tools/ajdt/47/dev/update">AJDT 4.7 dev builds</a></td>
+<td bgcolor="#FFFFCC" align ="center">Yes, <a href="http://download.eclipse.org/tools/ajdt/47/dev/update">AJDT 4.7 dev builds</a> seem to work</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes</td>
 <td bgcolor="#CCFFCC" align ="center">Yes <a href="http://download.eclipse.org/tools/cdt/releases/9.3">CDT 9.3</a>, <a href="http://download.eclipse.org/tools/cdt/releases/9.4">CDT 9.4</a></td>
