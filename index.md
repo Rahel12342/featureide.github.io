@@ -70,12 +70,12 @@ A major problem of product-line engineering is still the missing tool support. T
 * <a href="http://fosd.net/cide">CIDE</a>: A software product line tool for software product line development following the paradigm of separation of concerns
 * <a href="https://sites.google.com/a/ic.ufal.br/colligens/">Colligens</a>: A FeatureIDE extension providing tool support for C code annotated with the C preprocessor
 * <a href="http://familiar-project.github.io/">FAMILIAR</a>: An executable language that supports manipulating and reasoning about feature models
+* <a href="https://github.com/nils-christian/feature-gen">feature-gen</a>: Takes a FeatureIDE feature model as input and generates Java classes with annotated features
 * <a href="http://fosd.de/fuji">Fuji</a>: An extensible compiler that supports feature-oriented programming in Java
 * <a href="http://combinators.org/launchpad/update-site/">Launchpad</a>: Feature-oriented synthesis of programs
 * <a href="https://github.com/ckaestne/LEADT">LEADT</a>: Supports developers in locating features in Java code in order to turn them into a software product line
 * <a href="https://www.tu-braunschweig.de/isf/research/vampire/index.html">VAmPiRE</a>: Variant-Preserving Refactoring for Feature-Oriented Software Product Lines
 * <a href="https://github.com/tthuem/VariantSync">VariantSync</a>: Synchronization support for clone-and-own based on domain knownledge specified with FeatureIDE
-* <a href="https://github.com/nils-christian/feature-gen">feature-gen</a>: Takes a FeatureIDE feature model as input and generates Java classes with annotated features
 * Is your tool missing? Please <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">let us know</a>.
 
 <h2><a name="publications"></a>Publications</h2>
