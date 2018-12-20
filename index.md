@@ -456,10 +456,9 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li><a href="https://www.tu-braunschweig.de/isf/team/thuem">Thomas Th&uuml;m</a> (TU Braunschweig, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~krieter/">Sebastian Krieter</a> (University of Magdeburg, Germany)</li>
 <li><a href="https://wwwiti.cs.uni-magdeburg.de/~meinicke">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg, Germany)</li>
-<li>Christopher Sontag (TU Braunschweig, Germany)</li>
 <li>Joshua Sprey (TU Braunschweig, Germany)</li>
 <li>Paul Westphal (TU Braunschweig, Germany)</li>
-<li>Holger Fenske (TU Braunschweig, Germany)</li>
+<li>Chico Sundermann (TU Braunschweig, Germany)</li>
 <li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany; Harz University of Applied Sciences, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~saake/">Gunter Saake</a> (University of Magdeburg, Germany)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/team/schaefer/index.html">Ina Schaefer</a> (TU Braunschweig, Germany)</li>
@@ -470,16 +469,19 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <p>Further contributors and former project members:</p>
 
 <ul>
+<li>Ajeeth Kularajan (TU Braunschweig, Germany)</li>
 <li>Alexander Dreiling (University of Magdeburg, Germany)</li>
+<li>Alexander Kn&uuml;ppel (TU Braunschweig, Germany)</li>
 <li>Alexander Schmidt (University of Magdeburg, Germany)</li>
 <li><a href="http://cs.unibg.it/gargantini/">Angelo Gargantini</a> (University of Bergamo, Italy)</li>
 <li>Anna-Liisa Ahola (TU Braunschweig, Germany)</li>
 <li>Antje Mönch (TU Braunschweig, Germany)</li>
-<li>Chico Sundermann (TU Braunschweig, Germany)</li>
 <li>Christian Becker (University of Magdeburg, Germany)</li>
 <li>Christian Lausberger (University of Magdeburg, Germany)</li>
+<li>Christian Orsinger (TU Braunschweig, Germany)</li>
 <li>Christoph Giesel (University of Magdeburg, Germany)</li>
 <li>Christopher Kruczek (Metop Research Institute, Magdeburg, Germany)</li>
+<li>Christopher Sontag (TU Braunschweig, Germany)</li>
 <li>Constanze Adler (University of Magdeburg, Germany)</li>
 <li>Cyrill Meier (University of Magdeburg, Germany)</li>
 <li>Daniel Hohmann (University of Magdeburg, Germany)</li>
@@ -487,6 +489,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>David Broneske (University of Magdeburg, Germany)</li>
 <li>David Halm (University of Magdeburg, Germany)</li>
 <li>Dawid Szczepanski  (TU Braunschweig, Germany)</li>
+<li>Domenik Eichhorn (TU Braunschweig, Germany)</li>
 <li>Dominik Hamann (University of Magdeburg, Germany)</li>
 <li><a href="https://www.cs.utexas.edu/~dsb/">Don Batory</a> (University of Texas at Austin, USA)</li>
 <li>Edgard Schmidt (TU Braunschweig, Germany)</li>
@@ -504,15 +507,19 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Holger Fenske (TU Braunschweig, Germany)</li>
 <li>Indika Weerasingha Kumara (Swinburne University of Technology, Melbourne, Australia)</li>
 <li>Ingo Siemers (University of Magdeburg, Germany)</li>
+<li>Insansa Mun Gomba Michel (TU Braunschweig, Germany)</li>
 <li>Jan Wedding (University of Magdeburg, Germany)</li>
 <li>Jan Werner (TU Braunschweig, Germany)</li>
 <li>Janet Siegmund (Feigenspan) (Metop Research Institute, Magdeburg, Germany)</li>
 <li>Jann-Ole Henningson (TU Braunschweig, Germany)</li>
 <li>J&ouml;rg Liebig (University of Passau, Germany)</li>
 <li>Kai Wolf (University of Magdeburg, Germany)</li>
+<li>Kamil Rosiak (TU Braunschweig, Germany)</li>
 <li>Konstantin Tonscheidt (University of Magdeburg, Germany)</li>
 <li>Laura Marnitz (University of Magdeburg, Germany)</li>
+<li>Lennart Kontny (TU Braunschweig, Germany)</li>
 <li>Maik Lampe (University of Magdeburg, Germany)</li>
+<li>Malek Badeer (TU Braunschweig, Germany)</li>
 <li><a href="https://www.ict.swin.edu.au/personal/mkapuruge/">Malinda Kaushalye Kapuruge</a> (Swinburne University of Technology, Melbourne, Australia)</li>
 <li>Marcel Daniel (TU Braunschweig, Germany)</li>
 <li><a href="http://www.ic.ufal.br/marcio">M&aacute;rcio Ribeiro</a> (Federal University of Alagoas, Brazil)</li>
@@ -532,19 +539,25 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Patrick Venohr (University of Magdeburg, Germany)</li>
 <li>Patrik Haese (University of Magdeburg, Germany)</li>
 <li>Philipp Kuhn (TU Braunschweig, Germany)</li>
+<li>Rahel Arens (TU Braunschweig, Germany)</li>
 <li><a href="https://wwwiti.cs.uni-magdeburg.de/~rschroet/">Reimar Schr&ouml;ter</a> (University of Magdeburg, Germany)</li>
+<li>Sabrina Hugo (TU Braunschweig, Germany)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/team/schulze">Sandro Schulze</a> (University of Magdeburg, Germany)</li>
+<li>Sofia Ananieva (TU Braunschweig, Germany)</li>
 <li>S&ouml;nke Holthusen (University of Magdeburg, Germany)</li>
 <li>Sebastian Henneberg (University of Passau, Germany)</li>
 <li>Stefan Kr&uuml;ger (University of Paderborn, Germany)</li>
+<li>Stefanie Bolle (TU Braunschweig, Germany)</li>
 <li>Stefanie Schober (TU Braunschweig, Germany)</li>
 <li>Steffen Schulze (University of Magdeburg, Germany)</li>
 <li>Stephan Besecke (University of Magdeburg, Germany)</li>
 <li>Stephan Kauschka (University of Magdeburg, Germany)</li>
 <li>Sven Schuster (University of Braunschweig, Germany)</li>
 <li>Thiago Emmanuel de Oliveira Lima (Federal University of Alagoas, Brazil)</li>
+<li>Thomas Graave (TU Braunschweig, Germany)</li>
 <li>Tim Lautenschl&auml;ger (University of Magdeburg, Germany)</li>
 <li>Timo G&uuml;nther (TU Braunschweig, Germany)</li>
+<li>Tobias Pett (TU Braunschweig, Germany)</li>
 <li>Tom Brosch (University of Magdeburg, Germany)</li>
 <li>Torsten St&ouml;ter (University of Magdeburg, Germany)</li>
 </ul>
