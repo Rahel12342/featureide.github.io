@@ -459,6 +459,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Joshua Sprey (TU Braunschweig, Germany)</li>
 <li>Paul Westphal (TU Braunschweig, Germany)</li>
 <li>Chico Sundermann (TU Braunschweig, Germany)</li>
+<li>Christian Orsinger (TU Braunschweig, Germany)</li>
 <li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany; Harz University of Applied Sciences, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~saake/">Gunter Saake</a> (University of Magdeburg, Germany)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/team/schaefer/index.html">Ina Schaefer</a> (TU Braunschweig, Germany)</li>
@@ -478,7 +479,6 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Antje Mönch (TU Braunschweig, Germany)</li>
 <li>Christian Becker (University of Magdeburg, Germany)</li>
 <li>Christian Lausberger (University of Magdeburg, Germany)</li>
-<li>Christian Orsinger (TU Braunschweig, Germany)</li>
 <li>Christoph Giesel (University of Magdeburg, Germany)</li>
 <li>Christopher Kruczek (Metop Research Institute, Magdeburg, Germany)</li>
 <li>Christopher Sontag (TU Braunschweig, Germany)</li>
