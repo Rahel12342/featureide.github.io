@@ -72,6 +72,7 @@ A major problem of product-line engineering is still the missing tool support. T
 * <a href="http://familiar-project.github.io/">FAMILIAR</a>: An executable language that supports manipulating and reasoning about feature models
 * <a href="https://github.com/nils-christian/feature-gen">feature-gen</a>: Takes a FeatureIDE feature model as input and generates Java classes with annotated features
 * <a href="http://fosd.de/fuji">Fuji</a>: An extensible compiler that supports feature-oriented programming in Java
+* <a href="http://www.integrate.ovgu.de/Das+Projekt.html">INTEGRATE</a>: supporting company-wide, collaborative and variability-aware industrial plant engineering
 * <a href="http://combinators.org/launchpad/update-site/">Launchpad</a>: Feature-oriented synthesis of programs
 * <a href="https://github.com/ckaestne/LEADT">LEADT</a>: Supports developers in locating features in Java code in order to turn them into a software product line
 * <a href="https://www.tu-braunschweig.de/isf/research/vampire/index.html">VAmPiRE</a>: Variant-Preserving Refactoring for Feature-Oriented Software Product Lines
