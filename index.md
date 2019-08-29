@@ -210,7 +210,7 @@ including videos explaining the usage.</p>
 
 <h3>Supported Java and Eclipse Versions</h3>
 
-<p><strong>Java 1.7 or higher is required</strong> since FeatureIDE v2.7.3. FeatureIDE 2.7.2 and earlier versions do only require Java 1.6.</p>
+<p><strong>Java 1.8 or higher is required</strong> since FeatureIDE v3.6.0. FeatureIDE v2.7.3 to v3.5.5 require at least Java 1.7. FeatureIDE v2.7.2 and earlier versions do only require Java 1.6.</p>
 
 <p>If you do not have
 <a href="http://www.eclipse.org/downloads/">Eclipse</a> installed, you might
