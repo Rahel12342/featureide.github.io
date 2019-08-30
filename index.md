@@ -79,6 +79,15 @@ A major problem of product-line engineering is still the missing tool support. T
 * <a href="https://github.com/tthuem/VariantSync">VariantSync</a>: Synchronization support for clone-and-own based on domain knownledge specified with FeatureIDE
 * Is your tool missing? Please <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">let us know</a>.
 
+<!--<img src="http://chart.googleapis.com/chart?chd=t%3A18.072289156627%2C19.277108433735%2C39.759036144578%2C33.734939759036%2C34.939759036145%2C25.301204819277%2C27.710843373494%2C33.734939759036%2C39.759036144578%2C100%2C68.674698795181%2C2.4096385542169&cht=bvg&chs=420x240&chtt=Marketplace%20Client%20Install&chts=000000%2C22&chl=1/12%7C2/12%7C3/12%7C4/12%7C5/12%7C6/12%7C7/12%7C8/12%7C9/12%7C10/12%7C11/12%7C12/12&chco=ff6c0a&chf=&chxr=0%2C0%2C83&chxl=1%3A%7C%20%7CInstalls%7C%20&chxt=r%2Cr&chxp=&chxs=1%2C000000%2C12&chbh=20%2C10"/></a>
+-->
+
+<p>Since 2007 we received support request from the following cities:</p>
+
+<iframe width="100%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.de/maps/ms?hl=de&amp;ie=UTF8&amp;msa=0&amp;msid=102992651395946830408.00048f64a422726e89385&amp;ll=3.385828,-53.202496&amp;spn=90,137.655601&amp;t=h&amp;output=embed"></iframe>
+<br/>
+<small>View <a href="https://maps.google.de/maps/ms?hl=de&amp;ie=UTF8&amp;msa=0&amp;msid=102992651395946830408.00048f64a422726e89385&amp;ll=3.385828,-53.202496&amp;spn=90,137.655601&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">FeatureIDE Support Requests</a> on a larger map</small>
+
 <h2><a name="publications"></a>Publications</h2>
 
 <p>In the following, we only report selected publications with the main aim to demonstrate or describe FeatureIDE's functionality. For a more complete list of publications on the FeatureIDE functionality, we refer to <a href="https://scholar.google.de/citations?user=I7Kw3l8AAAAJ">Google Scholar</a>.</p>
@@ -521,6 +530,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Konstantin Tonscheidt (University of Magdeburg, Germany)</li>
 <li>Laura Marnitz (University of Magdeburg, Germany)</li>
 <li>Lennart Kontny (TU Braunschweig, Germany)</li>
+<li>Lukas Vogel (University of Magdeburg, Germany)</li>
 <li>Maik Lampe (University of Magdeburg, Germany)</li>
 <li>Malek Badeer (TU Braunschweig, Germany)</li>
 <li><a href="https://www.ict.swin.edu.au/personal/mkapuruge/">Malinda Kaushalye Kapuruge</a> (Swinburne University of Technology, Melbourne, Australia)</li>
@@ -530,6 +540,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Marcus Leich (University of Magdeburg, Germany)</li>
 <li>Marcus Pinnecke (University of Magdeburg, Germany)</li>
 <li>Marlen Bernier  (TU Braunschweig, Germany)</li>
+<li>Martha Nyerembe (University of Magdeburg, Germany)</li>
 <li>Matthias Quaas (University of Magdeburg, Germany)</li>
 <li>Maximilian Homann (TU Braunschweig, Germany)</li>
 <li>Melanie Pflaume (University of Magdeburg, Germany)</li>
@@ -549,6 +560,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Sofia Ananieva (TU Braunschweig, Germany)</li>
 <li>S&ouml;nke Holthusen (University of Magdeburg, Germany)</li>
 <li>Sebastian Henneberg (University of Passau, Germany)</li>
+<li>Simon Wenk (University of Magdeburg, Germany)</li>
 <li>Stefan Kr&uuml;ger (University of Paderborn, Germany)</li>
 <li>Stefanie Bolle (TU Braunschweig, Germany)</li>
 <li>Stefanie Schober (TU Braunschweig, Germany)</li>
@@ -563,6 +575,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Tobias Pett (TU Braunschweig, Germany)</li>
 <li>Tom Brosch (University of Magdeburg, Germany)</li>
 <li>Torsten St&ouml;ter (University of Magdeburg, Germany)</li>
+<li>Yang Liu (University of Magdeburg, Germany)</li>
 </ul>
 
 <h2><a name="statistics"></a>Statistics</h2>
@@ -582,17 +595,6 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li><a href="http://www.fil.univ-lille1.fr/portail/index.php?dipl=MInfo&sem=IAGL&ue=IFI&label=Pr%C3%A9sentation">University of Lille, France</a> (Clément Quinton)</li>
 <li>Is your lecture missing? Please <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">let us know</a>.</li>
 </ul>
-
-<p>Since December 2010 FeatureIDE is listed at the <a href="http://marketplace.eclipse.org/content/featureide">Eclipse Marketplace</a>.</p>
-
-<!--<img src="http://chart.googleapis.com/chart?chd=t%3A18.072289156627%2C19.277108433735%2C39.759036144578%2C33.734939759036%2C34.939759036145%2C25.301204819277%2C27.710843373494%2C33.734939759036%2C39.759036144578%2C100%2C68.674698795181%2C2.4096385542169&cht=bvg&chs=420x240&chtt=Marketplace%20Client%20Install&chts=000000%2C22&chl=1/12%7C2/12%7C3/12%7C4/12%7C5/12%7C6/12%7C7/12%7C8/12%7C9/12%7C10/12%7C11/12%7C12/12&chco=ff6c0a&chf=&chxr=0%2C0%2C83&chxl=1%3A%7C%20%7CInstalls%7C%20&chxt=r%2Cr&chxp=&chxs=1%2C000000%2C12&chbh=20%2C10"/></a>
--->
-
-<p>Since 2007 we received support request from the following cities:</p>
-
-<iframe width="100%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.de/maps/ms?hl=de&amp;ie=UTF8&amp;msa=0&amp;msid=102992651395946830408.00048f64a422726e89385&amp;ll=3.385828,-53.202496&amp;spn=90,137.655601&amp;t=h&amp;output=embed"></iframe>
-<br/>
-<small>View <a href="https://maps.google.de/maps/ms?hl=de&amp;ie=UTF8&amp;msa=0&amp;msid=102992651395946830408.00048f64a422726e89385&amp;ll=3.385828,-53.202496&amp;spn=90,137.655601&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">FeatureIDE Support Requests</a> on a larger map</small>
 
 <!--<h2><a name="relateddownloads"></a>Related Downloads</h2>
 <p>We generated 2000 feature models for our current research
