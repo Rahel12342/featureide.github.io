@@ -520,6 +520,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Indika Weerasingha Kumara (Swinburne University of Technology, Melbourne, Australia)</li>
 <li>Ingo Siemers (University of Magdeburg, Germany)</li>
 <li>Insansa Mun Gomba Michel (TU Braunschweig, Germany)</li>
+<li>Iris-Maria Banciu (University of Magdeburg, Germany)</li>
 <li>Jan Wedding (University of Magdeburg, Germany)</li>
 <li>Jan Werner (TU Braunschweig, Germany)</li>
 <li>Janet Siegmund (Feigenspan) (Metop Research Institute, Magdeburg, Germany)</li>
@@ -544,6 +545,7 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Matthias Quaas (University of Magdeburg, Germany)</li>
 <li>Maximilian Homann (TU Braunschweig, Germany)</li>
 <li>Melanie Pflaume (University of Magdeburg, Germany)</li>
+<li>Mohammed Khaled (University of Magdeburg, Germany)</li>
 <li>Mohammed Mahhouk (TU Braunschweig, Germany)</li>
 <li>Niklas Lehnfeld (TU Braunschweig, Germany)</li>
 <li>Oliver Urbaniak (TU Braunschweig, Germany)</li>
