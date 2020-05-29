@@ -602,7 +602,7 @@ contact the <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,to
 <li><a href="https://www.hs-harz.de/tleich/lehre/">Hochschule Harz, Germany</a> (Thomas Leich)</li>
 <li><a href="https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/ist/rgse/teaching">University of Koblenz-Landau, Germany</a> (Daniel Str&uuml;ber, Jan Jürjens)</li>
 <li><a href="http://www.fil.univ-lille1.fr/portail/index.php?dipl=MInfo&sem=IAGL&ue=IFI&label=Pr%C3%A9sentation">University of Lille, France</a> (Clément Quinton)</li>
-<li><a href="https://www.uni-ulm.de/in/sp/lehre/">University of Ulm, Germany</a> (Thomas Thüm)
+<li><a href="https://www.uni-ulm.de/in/sp/lehre/">University of Ulm, Germany</a> (Thomas Thüm)</li>
 <li>Is your lecture missing? Please <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,tobias.hess@uni-ulm.de,sebastian.krieter@ovgu.de">let us know</a>.</li>
 </ul>
 
