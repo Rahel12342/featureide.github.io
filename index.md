@@ -96,7 +96,7 @@ A major problem of product-line engineering is still the missing tool support. T
 
 <li><a name="Meinicke17"></a>Jens Meinicke, Thomas Th&uuml;m, Reimar Schr&ouml;ter, Fabian Benduhn, Thomas Leich, and Gunter Saake.
 <a href="https://www.springer.com/book/9783319614427">Mastering Software Variability with FeatureIDE</a>.
-Springer, 2017. To appear.<br />&nbsp;</li>
+Springer, 2017.<br />&nbsp;</li>
 
 <li><a name="AlhajjajiMK+:GPCE16"></a>Mustafa Al-Hajjaji, Jens Meinicke,
   Sebastian Krieter, Reimar Schr&ouml;ter, Thomas Th&uuml;m, Thomas Leich, and
@@ -469,21 +469,17 @@ contact the <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,to
 <p>FeatureIDE development team:</p>
 
 <ul>
-<li><a href="https://www.tu-braunschweig.de/isf/team/thuem">Thomas Th&uuml;m</a> (TU Braunschweig, Germany)</li>
+<li><a href="https://www.tu-braunschweig.de/isf/team/thuem">Thomas Th&uuml;m</a> (University of Ulm, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~krieter/">Sebastian Krieter</a> (University of Magdeburg, Germany)</li>
-<li><a href="https://wwwiti.cs.uni-magdeburg.de/~meinicke">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg, Germany)</li>
 <li>Joshua Sprey (TU Braunschweig, Germany)</li>
 <li>Paul Westphal (TU Braunschweig, Germany)</li>
 <li>Chico Sundermann (TU Braunschweig, Germany)</li>
-<li>Christian Orsinger (TU Braunschweig, Germany)</li>
-<li>Tobias Heß (Ulm University)</li>
-<li>Philipp Vulpius (Ulm University)</li>
-<li>Sören Viegener (Ulm University)</li>
+<li>Tobias Heß (University of Ulm, Germany)</li>
+<li>Philipp Vulpius (University of Ulm, Germany)</li>
+<li>Sören Viegener (University of Ulm, Germany)</li>
 <li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany; Harz University of Applied Sciences, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~saake/">Gunter Saake</a> (University of Magdeburg, Germany)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/team/schaefer/index.html">Ina Schaefer</a> (TU Braunschweig, Germany)</li>
-<li><a href="https://www.cs.cmu.edu/~ckaestne/">Christian K&auml;stner</a> (Carnegie Mellon University, USA)</li>
-<li><a href="https://www.infosun.fim.uni-passau.de/cl/staff/apel/">Sven Apel</a> (University of Passau, Germany)</li>
 </ul>
 
 <p>Further contributors and former project members:</p>
@@ -497,7 +493,9 @@ contact the <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,to
 <li>Anna-Liisa Ahola (TU Braunschweig, Germany)</li>
 <li>Antje Mönch (TU Braunschweig, Germany)</li>
 <li>Christian Becker (University of Magdeburg, Germany)</li>
+<li><a href="https://www.cs.cmu.edu/~ckaestne/">Christian K&auml;stner</a> (Carnegie Mellon University, USA)</li>
 <li>Christian Lausberger (University of Magdeburg, Germany)</li>
+<li>Christian Orsinger (TU Braunschweig, Germany)</li>
 <li>Christoph Giesel (University of Magdeburg, Germany)</li>
 <li>Christopher Kruczek (Metop Research Institute, Magdeburg, Germany)</li>
 <li>Christopher Sontag (TU Braunschweig, Germany)</li>
@@ -532,6 +530,7 @@ contact the <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,to
 <li>Jan Werner (TU Braunschweig, Germany)</li>
 <li>Janet Siegmund (Feigenspan) (Metop Research Institute, Magdeburg, Germany)</li>
 <li>Jann-Ole Henningson (TU Braunschweig, Germany)</li>
+<li><a href="https://wwwiti.cs.uni-magdeburg.de/~meinicke">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg, Germany)</li>
 <li>J&ouml;rg Liebig (University of Passau, Germany)</li>
 <li>Kai Wolf (University of Magdeburg, Germany)</li>
 <li>Kamil Rosiak (TU Braunschweig, Germany)</li>
@@ -576,6 +575,7 @@ contact the <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,to
 <li>Steffen Schulze (University of Magdeburg, Germany)</li>
 <li>Stephan Besecke (University of Magdeburg, Germany)</li>
 <li>Stephan Kauschka (University of Magdeburg, Germany)</li>
+<li><a href="https://www.infosun.fim.uni-passau.de/cl/staff/apel/">Sven Apel</a> (University of Passau, Germany)</li>
 <li>Sven Schuster (University of Braunschweig, Germany)</li>
 <li>Thiago Emmanuel de Oliveira Lima (Federal University of Alagoas, Brazil)</li>
 <li>Thomas Graave (TU Braunschweig, Germany)</li>
@@ -624,7 +624,7 @@ features and are not void, i.e., they contain at least one product.</p>
 </center>
 <!-- END: Powered by Supercounters.com -->
 
-<p align="center">
+<!--<p align="center">
 Sponsored by <br/>
 <a href="http://www.metop.de/"><img style="border: 0px solid; width: 80px; height: 80px;" alt="Metop Research Institute" src="logo/metop_logo.png" /></a>
-</p>
+</p>-->
