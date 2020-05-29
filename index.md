@@ -469,7 +469,7 @@ contact the <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,to
 <p>FeatureIDE development team:</p>
 
 <ul>
-<li><a href="https://www.tu-braunschweig.de/isf/team/thuem">Thomas Th&uuml;m</a> (University of Ulm, Germany)</li>
+<li><a href="https://www.uni-ulm.de/in/sp/team/thuem/">Thomas Th&uuml;m</a> (University of Ulm, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~krieter/">Sebastian Krieter</a> (University of Magdeburg, Germany)</li>
 <li>Joshua Sprey (TU Braunschweig, Germany)</li>
 <li>Paul Westphal (TU Braunschweig, Germany)</li>
@@ -624,7 +624,7 @@ features and are not void, i.e., they contain at least one product.</p>
 </center>
 <!-- END: Powered by Supercounters.com -->
 
-<!-- <p align="center">
-Sponsored by <br/>
-<a href="http://www.metop.de/"><img style="border: 0px solid; width: 80px; height: 80px;" alt="Metop Research Institute" src="logo/metop_logo.png" /></a>
-</p> -->
+<p align="center">
+<!-- Sponsored by <br/>
+<a href="http://www.metop.de/"><img style="border: 0px solid; width: 80px; height: 80px;" alt="Metop Research Institute" src="logo/metop_logo.png" /></a> -->
+</p>
