@@ -475,6 +475,9 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li>Paul Westphal (TU Braunschweig, Germany)</li>
 <li>Chico Sundermann (TU Braunschweig, Germany)</li>
 <li>Christian Orsinger (TU Braunschweig, Germany)</li>
+<li>Tobias Heß (Ulm University)</li>
+<li>Philipp Vulpius (Ulm University)</li>
+<li>Sören Viegener (Ulm University)</li>
 <li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany; Harz University of Applied Sciences, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~saake/">Gunter Saake</a> (University of Magdeburg, Germany)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/team/schaefer/index.html">Ina Schaefer</a> (TU Braunschweig, Germany)</li>
@@ -598,7 +601,8 @@ contact the <a href="mailto:t.thuem@tu-braunschweig.de,sebastian.krieter@ovgu.de
 <li><a href="https://www.hs-harz.de/tleich/lehre/">Hochschule Harz, Germany</a> (Thomas Leich)</li>
 <li><a href="https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/ist/rgse/teaching">University of Koblenz-Landau, Germany</a> (Daniel Str&uuml;ber, Jan Jürjens)</li>
 <li><a href="http://www.fil.univ-lille1.fr/portail/index.php?dipl=MInfo&sem=IAGL&ue=IFI&label=Pr%C3%A9sentation">University of Lille, France</a> (Clément Quinton)</li>
-<li>Is your lecture missing? Please <a href="mailto:jens.meinicke@ovgu.de,t.thuem@tu-braunschweig.de">let us know</a>.</li>
+<li><a href="https://www.uni-ulm.de/in/sp/team/thuem/">Ulm University, Germany</a> (Thomas Thüm)
+<li>Is your lecture missing? Please <a href="mailto:jens.meinicke@ovgu.de,thomas.thuem@uni-ulm.de">let us know</a>.</li>
 </ul>
 
 <!--<h2><a name="relateddownloads"></a>Related Downloads</h2>
