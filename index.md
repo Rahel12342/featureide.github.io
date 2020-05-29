@@ -624,7 +624,7 @@ features and are not void, i.e., they contain at least one product.</p>
 </center>
 <!-- END: Powered by Supercounters.com -->
 
-<!--<p align="center">
+<!-- <p align="center">
 Sponsored by <br/>
 <a href="http://www.metop.de/"><img style="border: 0px solid; width: 80px; height: 80px;" alt="Metop Research Institute" src="logo/metop_logo.png" /></a>
-</p>-->
+</p> -->
