@@ -471,9 +471,7 @@ contact the <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,to
 <ul>
 <li><a href="https://www.uni-ulm.de/in/sp/team/thuem/">Thomas Th&uuml;m</a> (University of Ulm, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~krieter/">Sebastian Krieter</a> (University of Magdeburg, Germany)</li>
-<li>Joshua Sprey (TU Braunschweig, Germany)</li>
-<li>Paul Westphal (TU Braunschweig, Germany)</li>
-<li>Chico Sundermann (TU Braunschweig, Germany)</li>
+<li>Chico Sundermann (University of Ulm, Germany)</li>
 <li>Tobias Heß (University of Ulm, Germany)</li>
 <li>Philipp Vulpius (University of Ulm, Germany)</li>
 <li>Sören Viegener (University of Ulm, Germany)</li>
@@ -507,6 +505,7 @@ contact the <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,to
 <li>David Halm (University of Magdeburg, Germany)</li>
 <li>Dawid Szczepanski  (TU Braunschweig, Germany)</li>
 <li>Domenik Eichhorn (TU Braunschweig, Germany)</li>
+<li>Dominik Engelhardt (TU Braunschweig, Germany)</li>
 <li>Dominik Hamann (University of Magdeburg, Germany)</li>
 <li><a href="https://www.cs.utexas.edu/~dsb/">Don Batory</a> (University of Texas at Austin, USA)</li>
 <li>Edgard Schmidt (TU Braunschweig, Germany)</li>
@@ -532,6 +531,7 @@ contact the <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,to
 <li>Jann-Ole Henningson (TU Braunschweig, Germany)</li>
 <li><a href="https://wwwiti.cs.uni-magdeburg.de/~meinicke">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg, Germany)</li>
 <li>J&ouml;rg Liebig (University of Passau, Germany)</li>
+<li>Joshua Sprey (TU Braunschweig, Germany)</li>
 <li>Kai Wolf (University of Magdeburg, Germany)</li>
 <li>Kamil Rosiak (TU Braunschweig, Germany)</li>
 <li>Konstantin Tonscheidt (University of Magdeburg, Germany)</li>
@@ -557,6 +557,7 @@ contact the <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,to
 <li>Oliver Urbaniak (TU Braunschweig, Germany)</li>
 <li>Paolo Vavassori (University of Bergamo, Italy)</li>
 <li>Paul Maximilian Bittner (TU Braunschweig, Germany)</li>
+<li>Paul Westphal (TU Braunschweig, Germany)</li>
 <li>Patrick Sulkowski (University of Magdeburg, Germany)</li>
 <li>Patrick Venohr (University of Magdeburg, Germany)</li>
 <li>Patrik Haese (University of Magdeburg, Germany)</li>
