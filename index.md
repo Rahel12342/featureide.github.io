@@ -77,7 +77,7 @@ A major problem of product-line engineering is still the missing tool support. T
 * <a href="https://github.com/ckaestne/LEADT">LEADT</a>: Supports developers in locating features in Java code in order to turn them into a software product line
 * <a href="https://www.tu-braunschweig.de/isf/research/vampire/index.html">VAmPiRE</a>: Variant-Preserving Refactoring for Feature-Oriented Software Product Lines
 * <a href="https://github.com/tthuem/VariantSync">VariantSync</a>: Synchronization support for clone-and-own based on domain knownledge specified with FeatureIDE
-* Is your tool missing? Please <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,tobias.hess@uni-ulm.de,sebastian.krieter@ovgu.de">let us know</a>.
+* Is your tool missing? Please <a href="mailto:featureide@uni-ulm.de">let us know</a>.
 
 <!--<img src="http://chart.googleapis.com/chart?chd=t%3A18.072289156627%2C19.277108433735%2C39.759036144578%2C33.734939759036%2C34.939759036145%2C25.301204819277%2C27.710843373494%2C33.734939759036%2C39.759036144578%2C100%2C68.674698795181%2C2.4096385542169&cht=bvg&chs=420x240&chtt=Marketplace%20Client%20Install&chts=000000%2C22&chl=1/12%7C2/12%7C3/12%7C4/12%7C5/12%7C6/12%7C7/12%7C8/12%7C9/12%7C10/12%7C11/12%7C12/12&chco=ff6c0a&chf=&chxr=0%2C0%2C83&chxl=1%3A%7C%20%7CInstalls%7C%20&chxt=r%2Cr&chxp=&chxs=1%2C000000%2C12&chbh=20%2C10"/></a>
 -->
@@ -359,7 +359,7 @@ choose the <i>Eclipse IDE for Java Developers</i> in the current version. If you
 
 <p>T-wise generation with CASA is currently only available on Windows systems. If you however need to use it, contact us so we can find a solution.</p>
 
-<p>All functionalities are tested under Windows, Mac, and Linux. However, FeatureIDE is mainly developed under Windows. If you have problems with FeatureIDE on your operating system, please do not hesitate to <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,tobias.hess@uni-ulm.de,sebastian.krieter@ovgu.de">contact us</a> or to use our <a href="https://github.com/FeatureIDE/FeatureIDE/issues/new">bug tracker</a>.</p>
+<p>All functionalities are tested under Windows, Mac, and Linux. However, FeatureIDE is mainly developed under Windows. If you have problems with FeatureIDE on your operating system, please do not hesitate to <a href="mailto:featureide@uni-ulm.de">contact us</a> or to use our <a href="https://github.com/FeatureIDE/FeatureIDE/issues/new">bug tracker</a>.</p>
 
 <h4>Source Code</h4>
 <p>FeatureIDE is released under L-GPL license v3. The source code is available on <a href="https://github.com/tthuem/FeatureIDE">GitHub</a>. See also our <a href="https://github.com/tthuem/FeatureIDE/issues">bug tracker</a> and 
@@ -466,7 +466,7 @@ Note, that you can change the layout of the feature model since FeatureIDE 2.6 u
 <h2><a name="contact"></a>Contact</h2>
 
 <p>For more information about the project, support requests, and technical questions, do not hesitate to
-contact the <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,tobias.hess@uni-ulm.de,sebastian.krieter@ovgu.de">FeatureIDE development team</a>. For bug reports, you can use our <a href="https://github.com/FeatureIDE/FeatureIDE/issues/new">bug tracker</a>.</p>
+contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</a>. For bug reports, you can use our <a href="https://github.com/FeatureIDE/FeatureIDE/issues/new">bug tracker</a>.</p>
 
 <p>FeatureIDE development team:</p>
 
@@ -606,7 +606,7 @@ contact the <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,to
 <li><a href="https://www.uni-koblenz-landau.de/en/campus-koblenz/fb4/ist/rgse/teaching">University of Koblenz-Landau, Germany</a> (Daniel Str&uuml;ber, Jan Jürjens)</li>
 <li><a href="http://www.fil.univ-lille1.fr/portail/index.php?dipl=MInfo&sem=IAGL&ue=IFI&label=Pr%C3%A9sentation">University of Lille, France</a> (Clément Quinton)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/lehre/">University of Ulm, Germany</a> (Thomas Thüm)</li>
-<li>Is your lecture missing? Please <a href="mailto:thomas.thuem@uni-ulm.de,chico.sundermann@tu-bs.de,tobias.hess@uni-ulm.de,sebastian.krieter@ovgu.de">let us know</a>.</li>
+<li>Is your lecture missing? Please <a href="mailto:featureide@uni-ulm.de">let us know</a>.</li>
 </ul>
 
 <!--<h2><a name="relateddownloads"></a>Related Downloads</h2>
