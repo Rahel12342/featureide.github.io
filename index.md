@@ -473,10 +473,13 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <ul>
 <li><a href="https://www.uni-ulm.de/in/sp/team/thuem/">Thomas Th&uuml;m</a> (University of Ulm, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~krieter/">Sebastian Krieter</a> (University of Magdeburg, Germany)</li>
-<li>Chico Sundermann (University of Ulm, Germany)</li>
-<li>Tobias Heß (University of Ulm, Germany)</li>
-<li>Philipp Vulpius (University of Ulm, Germany)</li>
-<li>Sören Viegener (University of Ulm, Germany)</li>
+<li><a href="https://www.uni-ulm.de/in/sp/team/chico-sundermann/">Chico Sundermann</a> (University of Ulm, Germany)</li>
+<li><a href="https://www.uni-ulm.de/in/sp/team/tobias-hess/">Tobias Heß</a> (University of Ulm, Germany)</li>
+<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Elias+Kuiter.html">Elias Kuiter</a> (University of Magdeburg, Germany)</li>
+<li>Rahel Arens (University of Ulm, Germany)</li>
+<li>Kevin Jedelhauser (University of Ulm, Germany)</li>
+<li>Johannes Herschel (University of Ulm, Germany)</li>
+<li>Benedikt Jutz (University of Ulm, Germany)</li>
 <li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany; Harz University of Applied Sciences, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~saake/">Gunter Saake</a> (University of Magdeburg, Germany)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/team/schaefer/index.html">Ina Schaefer</a> (TU Braunschweig, Germany)</li>
@@ -558,13 +561,13 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Niklas Lehnfeld (TU Braunschweig, Germany)</li>
 <li>Oliver Urbaniak (TU Braunschweig, Germany)</li>
 <li>Paolo Vavassori (University of Bergamo, Italy)</li>
-<li>Paul Maximilian Bittner (TU Braunschweig, Germany)</li>
+<li><a href="https://www.uni-ulm.de/in/sp/team/paul-maximilian-bittner/">Paul Maximilian Bittner</a> (University of Ulm, Germany)</li>
 <li>Paul Westphal (TU Braunschweig, Germany)</li>
 <li>Patrick Sulkowski (University of Magdeburg, Germany)</li>
 <li>Patrick Venohr (University of Magdeburg, Germany)</li>
 <li>Patrik Haese (University of Magdeburg, Germany)</li>
 <li>Philipp Kuhn (TU Braunschweig, Germany)</li>
-<li>Rahel Arens (TU Braunschweig, Germany)</li>
+<li>Philipp Vulpius (University of Ulm, Germany)</li>
 <li><a href="https://wwwiti.cs.uni-magdeburg.de/~rschroet/">Reimar Schr&ouml;ter</a> (University of Magdeburg, Germany)</li>
 <li>Sabrina Hugo (TU Braunschweig, Germany)</li>
 <li><a href="https://www.tu-braunschweig.de/isf/team/schulze">Sandro Schulze</a> (University of Magdeburg, Germany)</li>
@@ -572,6 +575,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>S&ouml;nke Holthusen (University of Magdeburg, Germany)</li>
 <li>Sebastian Henneberg (University of Passau, Germany)</li>
 <li>Simon Wenk (University of Magdeburg, Germany)</li>
+<li>Sören Viegener (University of Ulm, Germany)</li>
 <li>Stefan Kr&uuml;ger (University of Paderborn, Germany)</li>
 <li>Stefanie Bolle (TU Braunschweig, Germany)</li>
 <li>Stefanie Schober (TU Braunschweig, Germany)</li>
