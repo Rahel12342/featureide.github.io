@@ -472,7 +472,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 
 <ul>
 <li><a href="https://www.uni-ulm.de/in/sp/team/thuem/">Thomas Th&uuml;m</a> (University of Ulm, Germany)</li>
-<li><a href="http://wwwiti.cs.uni-magdeburg.de/~krieter/">Sebastian Krieter</a> (University of Magdeburg, Germany)</li>
+<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Externe+Doktoranden/Sebastian+Krieter.html">Sebastian Krieter</a> (Harz University of Applied Sciences, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/chico-sundermann/">Chico Sundermann</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/team/tobias-hess/">Tobias Heß</a> (University of Ulm, Germany)</li>
 <li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Elias+Kuiter.html">Elias Kuiter</a> (University of Magdeburg, Germany)</li>
