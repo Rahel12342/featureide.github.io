@@ -482,7 +482,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Benedikt Jutz (University of Ulm, Germany)</li>
 <li><a href="https://www.hs-harz.de/tleich/">Thomas Leich</a> (Metop Research Institute, Germany; Harz University of Applied Sciences, Germany)</li>
 <li><a href="http://wwwiti.cs.uni-magdeburg.de/~saake/">Gunter Saake</a> (University of Magdeburg, Germany)</li>
-<li><a href="https://www.tu-braunschweig.de/isf/team/schaefer/index.html">Ina Schaefer</a> (TU Braunschweig, Germany)</li>
+<li><a href="https://www.tu-braunschweig.de/isf/team/schaefer">Ina Schaefer</a> (TU Braunschweig, Germany)</li>
 </ul>
 
 <p>Further contributors and former project members:</p>
@@ -518,7 +518,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Enis Belli (TU Braunschweig, Germany)</li>
 <li>Eric Schubert (University of Magdeburg, Germany)</li>
 <li>Erik D&auml;nike (University of Magdeburg, Germany)</li>
-<li><a href="https://wwwiti.cs.uni-magdeburg.de/~benduhn/">Fabian Benduhn</a> (University of Magdeburg, Germany)</li>
+<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Ehemalige+Mitarbeiter/Fabian+Benduhn.html">Fabian Benduhn</a> (University of Magdeburg, Germany)</li>
 <li>Fabian Wielgorz (University of Passau, Germany)</li>
 <li>Felix Rieger (University of Marburg, Germany)</li>
 <li>Fl&aacute;vio Medeiros (Federal University of Alagoas, Brazil)</li>
@@ -534,7 +534,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Jan Werner (TU Braunschweig, Germany)</li>
 <li>Janet Siegmund (Feigenspan) (Metop Research Institute, Magdeburg, Germany)</li>
 <li>Jann-Ole Henningson (TU Braunschweig, Germany)</li>
-<li><a href="https://wwwiti.cs.uni-magdeburg.de/~meinicke">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg, Germany)</li>
+<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Ehemalige+Mitarbeiter/Jens+Meinicke.html">Jens Meinicke</a> (Carnegie Mellon University, USA; University of Magdeburg, Germany)</li>
 <li>J&ouml;rg Liebig (University of Passau, Germany)</li>
 <li>Joshua Sprey (TU Braunschweig, Germany)</li>
 <li>Kai Wolf (University of Magdeburg, Germany)</li>
@@ -545,9 +545,9 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Lukas Vogel (University of Magdeburg, Germany)</li>
 <li>Maik Lampe (University of Magdeburg, Germany)</li>
 <li>Malek Badeer (TU Braunschweig, Germany)</li>
-<li><a href="https://www.ict.swin.edu.au/personal/mkapuruge/">Malinda Kaushalye Kapuruge</a> (Swinburne University of Technology, Melbourne, Australia)</li>
+<li>Malinda Kaushalye Kapuruge (Swinburne University of Technology, Melbourne, Australia)</li>
 <li>Marcel Daniel (TU Braunschweig, Germany)</li>
-<li><a href="http://www.ic.ufal.br/marcio">M&aacute;rcio Ribeiro</a> (Federal University of Alagoas, Brazil)</li>
+<li>M&aacute;rcio Ribeiro (Federal University of Alagoas, Brazil)</li>
 <li>Marcus Kamieth (University of Magdeburg, Germany)</li>
 <li>Marcus Leich (University of Magdeburg, Germany)</li>
 <li>Marcus Pinnecke (University of Magdeburg, Germany)</li>
@@ -568,9 +568,9 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Patrik Haese (University of Magdeburg, Germany)</li>
 <li>Philipp Kuhn (TU Braunschweig, Germany)</li>
 <li>Philipp Vulpius (University of Ulm, Germany)</li>
-<li><a href="https://wwwiti.cs.uni-magdeburg.de/~rschroet/">Reimar Schr&ouml;ter</a> (University of Magdeburg, Germany)</li>
+<li>Reimar Schr&ouml;ter (University of Magdeburg, Germany)</li>
 <li>Sabrina Hugo (TU Braunschweig, Germany)</li>
-<li><a href="https://www.tu-braunschweig.de/isf/team/schulze">Sandro Schulze</a> (University of Magdeburg, Germany)</li>
+<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Assoziierte+Mitarbeiter/Sandro+Schulze.html">Sandro Schulze</a> (University of Magdeburg, Germany)</li>
 <li>Sofia Ananieva (TU Braunschweig, Germany)</li>
 <li>S&ouml;nke Holthusen (University of Magdeburg, Germany)</li>
 <li>Sebastian Henneberg (University of Passau, Germany)</li>
