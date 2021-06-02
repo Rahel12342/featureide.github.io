@@ -490,7 +490,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <ul>
 <li>Ajeeth Kularajan (TU Braunschweig, Germany)</li>
 <li>Alexander Dreiling (University of Magdeburg, Germany)</li>
-<li>Alexander Kn&uuml;ppel (TU Braunschweig, Germany)</li>
+<li><a href="https://www.tu-braunschweig.de/isf/team/knueppel">Alexander Kn&uuml;ppel</a> (TU Braunschweig, Germany)</li>
 <li>Alexander Schmidt (University of Magdeburg, Germany)</li>
 <li><a href="http://cs.unibg.it/gargantini/">Angelo Gargantini</a> (University of Bergamo, Italy)</li>
 <li>Anna-Liisa Ahola (TU Braunschweig, Germany)</li>
@@ -506,9 +506,9 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Cyrill Meier (University of Magdeburg, Germany)</li>
 <li>Daniel Hohmann (University of Magdeburg, Germany)</li>
 <li>Dariusz Krolikowski (University of Magdeburg, Germany)</li>
-<li>David Broneske (University of Magdeburg, Germany)</li>
+<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Assoziierte+Mitarbeiter/David+Broneske.html">David Broneske</a> (University of Magdeburg, Germany)</li>
 <li>David Halm (University of Magdeburg, Germany)</li>
-<li>Dawid Szczepanski  (TU Braunschweig, Germany)</li>
+<li>Dawid Szczepanski (TU Braunschweig, Germany)</li>
 <li>Domenik Eichhorn (TU Braunschweig, Germany)</li>
 <li>Dominik Engelhardt (TU Braunschweig, Germany)</li>
 <li>Dominik Hamann (University of Magdeburg, Germany)</li>
@@ -538,7 +538,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>J&ouml;rg Liebig (University of Passau, Germany)</li>
 <li>Joshua Sprey (TU Braunschweig, Germany)</li>
 <li>Kai Wolf (University of Magdeburg, Germany)</li>
-<li>Kamil Rosiak (TU Braunschweig, Germany)</li>
+<li><a href="https://www.tu-braunschweig.de/isf/kamil-rosiak-msc">Kamil Rosiak</a> (TU Braunschweig, Germany)</li>
 <li>Konstantin Tonscheidt (University of Magdeburg, Germany)</li>
 <li>Laura Marnitz (University of Magdeburg, Germany)</li>
 <li>Lennart Kontny (TU Braunschweig, Germany)</li>
@@ -550,8 +550,8 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li><a href="http://www.ic.ufal.br/marcio">M&aacute;rcio Ribeiro</a> (Federal University of Alagoas, Brazil)</li>
 <li>Marcus Kamieth (University of Magdeburg, Germany)</li>
 <li>Marcus Leich (University of Magdeburg, Germany)</li>
-<li>Marcus Pinnecke (University of Magdeburg, Germany)</li>
-<li>Marlen Bernier  (TU Braunschweig, Germany)</li>
+<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Externe+Doktoranden/Marcus+Pinnecke.html">Marcus Pinnecke</a> (University of Magdeburg, Germany)</li>
+<li>Marlen Bernier (TU Braunschweig, Germany)</li>
 <li>Martha Nyerembe (University of Magdeburg, Germany)</li>
 <li>Matthias Quaas (University of Magdeburg, Germany)</li>
 <li>Maximilian Homann (TU Braunschweig, Germany)</li>
@@ -568,7 +568,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Patrik Haese (University of Magdeburg, Germany)</li>
 <li>Philipp Kuhn (TU Braunschweig, Germany)</li>
 <li>Philipp Vulpius (University of Ulm, Germany)</li>
-<li>Reimar Schr&ouml;ter (University of Magdeburg, Germany)</li>
+<li><a href="https://www.dbse.ovgu.de/en/Staff/Former+Members.html">Reimar Schr&ouml;ter</a> (University of Magdeburg, Germany)</li>
 <li>Sabrina Hugo (TU Braunschweig, Germany)</li>
 <li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Assoziierte+Mitarbeiter/Sandro+Schulze.html">Sandro Schulze</a> (University of Potsdam, Germany)</li>
 <li>Sofia Ananieva (TU Braunschweig, Germany)</li>
@@ -588,7 +588,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Thomas Graave (TU Braunschweig, Germany)</li>
 <li>Tim Lautenschl&auml;ger (University of Magdeburg, Germany)</li>
 <li>Timo G&uuml;nther (TU Braunschweig, Germany)</li>
-<li>Tobias Pett (TU Braunschweig, Germany)</li>
+<li><a href="https://www.tu-braunschweig.de/isf/team/pett">Tobias Pett<a> (TU Braunschweig, Germany)</li>
 <li>Tom Brosch (University of Magdeburg, Germany)</li>
 <li>Torsten St&ouml;ter (University of Magdeburg, Germany)</li>
 <li>Yang Liu (University of Magdeburg, Germany)</li>
