@@ -547,7 +547,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Malek Badeer (TU Braunschweig, Germany)</li>
 <li>Malinda Kaushalye Kapuruge (Swinburne University of Technology, Melbourne, Australia)</li>
 <li>Marcel Daniel (TU Braunschweig, Germany)</li>
-<li>M&aacute;rcio Ribeiro (Federal University of Alagoas, Brazil)</li>
+<li><a href="http://www.ic.ufal.br/marcio">M&aacute;rcio Ribeiro</a> (Federal University of Alagoas, Brazil)</li>
 <li>Marcus Kamieth (University of Magdeburg, Germany)</li>
 <li>Marcus Leich (University of Magdeburg, Germany)</li>
 <li>Marcus Pinnecke (University of Magdeburg, Germany)</li>
@@ -570,7 +570,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Philipp Vulpius (University of Ulm, Germany)</li>
 <li>Reimar Schr&ouml;ter (University of Magdeburg, Germany)</li>
 <li>Sabrina Hugo (TU Braunschweig, Germany)</li>
-<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Assoziierte+Mitarbeiter/Sandro+Schulze.html">Sandro Schulze</a> (University of Magdeburg, Germany)</li>
+<li><a href="https://www.dbse.ovgu.de/Mitarbeiter/Assoziierte+Mitarbeiter/Sandro+Schulze.html">Sandro Schulze</a> (University of Potsdam, Germany)</li>
 <li>Sofia Ananieva (TU Braunschweig, Germany)</li>
 <li>S&ouml;nke Holthusen (University of Magdeburg, Germany)</li>
 <li>Sebastian Henneberg (University of Passau, Germany)</li>
