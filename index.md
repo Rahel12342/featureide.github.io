@@ -176,7 +176,7 @@ including videos explaining the usage.</p>
 
 <p>As there are many dependencies and installation is not always straightforward, we prepared special versions of Eclipse with all necessary plug-ins installed. In most cases, we took an existing Eclipse with JDT and then installed CDT, AJDT, and FeatureIDE. For a 32bit version, Java 32bit is required (even possible on a 64bit machine). For a 64bit version, Java 64bit is required (only possible on a 64bit machine).</p>
 
-> ℹ️ Since Eclipse 2020-09 (4.17), Eclipse requires at least Java 11 to launch. This affects the prepackages of FeatureIDE starting with v3.6.4. However, FeatureIDE requires only Java 8 for now and can therefore be installed into older Eclipse versions (we recommend Eclipse 4.16) via the [Eclipse Marketplace](http://marketplace.eclipse.org/content/featureide) or the [Update Site](http://featureide.cs.ovgu.de/update/v3/). Consult the [Wiki](https://github.com/FeatureIDE/FeatureIDE/wiki#installation-and-update) for more information on these installation methods.
+> Since Eclipse 2020-09 (4.17), Eclipse requires at least Java 11 to launch. This affects the prepackages of FeatureIDE starting with v3.6.4. However, FeatureIDE requires only Java 8 for now and can therefore be installed into older Eclipse versions (we recommend Eclipse 4.16) via the [Eclipse Marketplace](http://marketplace.eclipse.org/content/featureide) or the [Update Site](http://featureide.cs.ovgu.de/update/v3/). Consult the [Wiki](https://github.com/FeatureIDE/FeatureIDE/wiki#installation-and-update) for more information on these installation methods.
 
 | FeatureIDE | Eclipse | Eclipse with FeatureIDE, JDT, CDT, and AJDT | Eclipse with Feature Modeling | FeatureIDE Library |
 | --- | --- | --- | --- | --- |
