@@ -66,6 +66,7 @@ A major problem of product-line engineering is still the missing tool support. T
 
 <p>Numerous other tools have been built on top of the FeatureIDE architecture:</p>
 
+* <a href="http://miso.es/tools/merlin/">Merlin</a>: A tool to engineer and analyse meta-model product lines, and their associated transformation product lines.
 * <a href="https://but4reuse.github.io/">BUT4Reuse</a>: Feature identification in clone-and-own, feature-model import from and export to FeatureIDE
 * <a href="http://fosd.net/cide">CIDE</a>: A software product line tool for software product line development following the paradigm of separation of concerns
 * <a href="https://sites.google.com/a/ic.ufal.br/colligens/">Colligens</a>: A FeatureIDE extension providing tool support for C code annotated with the C preprocessor
@@ -592,7 +593,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li>Thomas Graave (TU Braunschweig, Germany)</li>
 <li>Tim Lautenschl&auml;ger (University of Magdeburg, Germany)</li>
 <li>Timo G&uuml;nther (TU Braunschweig, Germany)</li>
-<li><a href="https://www.tu-braunschweig.de/isf/team/pett">Tobias Pett<a> (TU Braunschweig, Germany)</li>
+<li><a href="https://www.tu-braunschweig.de/isf/team/pett">Tobias Pett</a> (TU Braunschweig, Germany)</li>
 <li>Tom Brosch (University of Magdeburg, Germany)</li>
 <li>Torsten St&ouml;ter (University of Magdeburg, Germany)</li>
 <li>Yang Liu (University of Magdeburg, Germany)</li>
@@ -615,6 +616,7 @@ contact the <a href="mailto:featureide@uni-ulm.de">FeatureIDE development team</
 <li><a href="http://www.fil.univ-lille1.fr/portail/index.php?dipl=MInfo&sem=IAGL&ue=IFI&label=Pr%C3%A9sentation">University of Lille, France</a> (Clément Quinton)</li>
 <li><a href="https://www.uni-ulm.de/in/sp/lehre/">University of Ulm, Germany</a> (Thomas Thüm)</li>
 <li>Is your lecture missing? Please <a href="mailto:featureide@uni-ulm.de">let us know</a>.</li>
+
 </ul>
 
 <!--<h2><a name="relateddownloads"></a>Related Downloads</h2>
