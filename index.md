@@ -85,7 +85,7 @@ A major problem of product-line engineering is still the missing tool support. T
 
 <p>Since 2007 we received support request from the following cities:</p>
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=11LcfXlW1sqYeRsSioIvsTFMVaIbzGkBm&ehbc=2E312F" width="640" height="480"></iframe>
+<!--<iframe src="https://www.google.com/maps/d/u/1/embed?mid=11LcfXlW1sqYeRsSioIvsTFMVaIbzGkBm&ehbc=2E312F" width="640" height="480"></iframe>-->
 
 <iframe width="100%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.de/maps/ms?hl=de&amp;ie=UTF8&amp;msa=0&amp;msid=102992651395946830408.00048f64a422726e89385&amp;ll=3.385828,-53.202496&amp;spn=90,137.655601&amp;t=h&amp;output=embed"></iframe>
 <br/>
